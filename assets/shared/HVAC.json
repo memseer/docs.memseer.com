@@ -1,0 +1,21 @@
+{
+  "item": {
+    "isUnitOfWork": false,
+    "name": "HVAC",
+    "isActive": true,
+    "isNotify": true
+  },
+  "actions": [
+    {
+      "name": "clean all return vents",
+      "units": 2,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "replace air filter",
+      "units": 4,
+      "unitOfWork": "months",
+      "notes": "Filter: 16x25x1"
+    }
+  ]
+}

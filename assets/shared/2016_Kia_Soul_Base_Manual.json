@@ -1,0 +1,96 @@
+{
+  "item": {
+    "isUnitOfWork": true,
+    "unitOfWork": "kilometers",
+    "name": "Kia Soul base",
+    "dateOfOrigin": {
+      "year": 2016,
+      "month": 1,
+      "day": 1
+    },
+    "isActive": true,
+    "isNotify": true
+  },
+  "actions": [
+    {
+      "name": "adjust engine valve clearance",
+      "units": 120000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "tire rotation",
+      "units": 15000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "inspect brakes",
+      "units": 50000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "inspect drive belt",
+      "units": 30,
+      "unitOfWork": "months"
+    },
+    {
+      "name": "inspect exhaust system",
+      "units": 72000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "inspect tire pressure",
+      "units": 85,
+      "unitOfWork": "days"
+    },
+    {
+      "name": "replace air filter",
+      "units": 20000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "replace battery",
+      "units": 4,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "replace brake fluid",
+      "units": 50000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "replace cabin air filter",
+      "units": 20000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "replace coolant",
+      "units": 3,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "replace license sticker",
+      "units": 2,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "replace oil & filter",
+      "units": 5000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "replace oil & filter",
+      "units": 1,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "replace spark plugs",
+      "units": 160000,
+      "unitOfWork": "work"
+    },
+    {
+      "name": "replace transmission oil",
+      "units": 100000,
+      "unitOfWork": "work"
+    }
+  ]
+}
