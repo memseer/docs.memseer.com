@@ -13,8 +13,7 @@ Memseer lets you [import](../docs/import_export/import.md) and [export](../docs/
 
 You can find community shared items below.
 
---- 
-
+---
 
 **All items provided by community. Please review after import.**
 
@@ -23,3 +22,4 @@ You can find community shared items below.
 [2016 Kia Soul Base Manual](../assets/shared/2016_Kia_Soul_Base_Manual.json){:download=""}\
 [2011 Hyundai Accent Auto](../assets/shared/2011_Hyundai_Accent_Auto.json){:download=""}\
 [HVAC](../assets/shared/HVAC.json){:download=""}
+[2018 NordicTrack T5.0 Treadmill](../assets/shared/2018_NordicTrack_T5.0.json){:download=""}

@@ -1,0 +1,32 @@
+{
+  "item": {
+    "isActive": true,
+    "isUnitOfWork": true,
+    "unitOfWork": "hours",
+    "name": "NordicTrack T5.0",
+    "dateOfOrigin": {
+      "year": 2018,
+      "month": 12,
+      "day": 1
+    },
+    "isNotify": true
+  },
+  "actions": [
+    {
+      "name": "inspect working hours",
+      "units": 6,
+      "unitOfWork": "months",
+      "notes": "How to display working hours:\nPress STOP button and plug safety key. Release STOP button. Display will show status information with total hours."
+    },
+    {
+      "name": "lubricate track",
+      "units": 1,
+      "unitOfWork": "years"
+    },
+    {
+      "name": "lubricate track",
+      "units": 100,
+      "unitOfWork": "work"
+    }
+  ]
+}
