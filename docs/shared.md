@@ -21,5 +21,5 @@ You can find community shared items below.
 [2004 Mazda Miata Manual](../assets/shared/2004_Mazda_Miata_Manual.json){:download=""}\
 [2016 Kia Soul Base Manual](../assets/shared/2016_Kia_Soul_Base_Manual.json){:download=""}\
 [2011 Hyundai Accent Auto](../assets/shared/2011_Hyundai_Accent_Auto.json){:download=""}\
-[HVAC](../assets/shared/HVAC.json){:download=""}
+[HVAC](../assets/shared/HVAC.json){:download=""}\
 [2018 NordicTrack T5.0 Treadmill](../assets/shared/2018_NordicTrack_T5.0.json){:download=""}
