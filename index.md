@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 ---
 
-![](assets/images/logo.png){: style="display:block; margin-left:auto; margin-right:auto"}
+![](assets/images/logo.png){: width="120px" style="display:block; margin-left:auto; margin-right:auto"}
 
 # Memseer
 {: style="text-align: center;"}
