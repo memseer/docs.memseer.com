@@ -3,12 +3,14 @@ layout: default
 nav_order: 1
 ---
 
-<center>
-![](assets/images/logo.png)
+![](assets/images/logo.png){: text-style="align: center;"}
+
 # Memseer
+{: text-style="align: center;"}
+
 A new way to organize
-{: .fs-6 .fw-300 }
-</center>
+{: .fs-6 .fw-300 text-style="align: center;"}
+
 ---
 
 ![](assets/images/dashboard.png)
