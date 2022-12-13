@@ -3,7 +3,7 @@ layout: default
 nav_order: 1
 ---
 
-<center>
+<div style="text-align: center;">
 
 ![](assets/images/logo.png)
 
@@ -12,7 +12,7 @@ nav_order: 1
 A new way to organize
 {: .fs-6 .fw-300 }
 
-</center>
+</div>
 ---
 
 ![](assets/images/dashboard.png)
