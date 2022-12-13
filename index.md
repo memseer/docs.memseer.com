@@ -3,16 +3,12 @@ layout: default
 nav_order: 1
 ---
 
-<div style="text-align: center;">
-
+<center>
 ![](assets/images/logo.png)
-
 # Memseer
-
 A new way to organize
 {: .fs-6 .fw-300 }
-
-</div>
+</center>
 ---
 
 ![](assets/images/dashboard.png)
