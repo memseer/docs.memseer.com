@@ -3,6 +3,23 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 22.12.22:
+
+🌱 **Add: static yearly action**
+
+Now you can add an action that will take place on specific day of specific month every year.
+
+For example: order Christmas or new year's gifts ahead of holiday rush:\
+`new year gift every 1 year(s) on nov 15th`
+
+![](../assets/images/changelog/static_yearly_action.png)
+
+🌱 **Add: favicon**
+
+✏️ **Increase: name field length**
+
+Slightly increase name filed length in events in order to accommodate longer names.
+
 ### Version 22.11.18:
 
 🌱 **Add: subscription for existing users**
