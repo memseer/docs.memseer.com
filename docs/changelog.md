@@ -3,6 +3,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 22.12.23:
+
+🌱 **Add: mini logo**
+
+🐞 **Fix: responsive design for small screens**
+
+![](../assets/images/changelog/add_mini_logo_fix_design_for_small%20screen.png)
+
+---
 ### Version 22.12.22:
 
 🌱 **Add: static yearly action**
@@ -20,6 +29,7 @@ For example: order Christmas or new year's gifts ahead of holiday rush:\
 
 Slightly increase name filed length in events in order to accommodate longer names.
 
+---
 ### Version 22.11.18:
 
 🌱 **Add: subscription for existing users**
@@ -27,6 +37,8 @@ Slightly increase name filed length in events in order to accommodate longer nam
 Existing beta users can subscribe now
 
 ![](../assets/images/changelog/add_subscription_for_existing_users.png)
+
+---
 
 ### Version 22.11.5:
 
@@ -37,6 +49,7 @@ If you want to turn off work units for the item, first remove all the actions wi
 
 ![](../assets/images/changelog/add_tooltip_for_disabled_work_units.png)
 
+---
 ### Version 22.11.4:
 
 🌱 **Add: redirect after login**
@@ -54,6 +67,7 @@ Unit of work toggle switch resets unit of work selection however does not apply 
 
 There are no changes to app functionality.
 
+---
 ### Version 22.10.29:
 
 ✂️ **Remove: type from action and event**
@@ -70,7 +84,7 @@ Origination date was squashed and unreadable in vertical mobile view, now it can
 
 ![](../assets/images/changelog/fix_mobile_item_layout.png)
 
-
+---
 ### Version 22.10.26:
 
 🌱 **Add: separate row for event notes in mobile mode**
@@ -84,6 +98,7 @@ After: "every 1 week(s)"
 
 ![](../assets/images/changelog/action_tooltip_in_events.png)
 
+---
 ### Version 22.10.14:
 
 🌱 **Add: "between" and "on" weekly option**
@@ -102,6 +117,7 @@ In addition, you can add weekly action with option to take effect on a certain d
 
 There are no changes to app functionality.
 
+---
 ### Version 22.10.5:
 
 🌱 **Add: weekly option**
@@ -118,7 +134,6 @@ For example: you want to inspect credit card bill every 2 weeks, action will loo
 There are no changes to functionality.
 
 ---
-
 ### Version 22.9.29:
 
 🌱 **Add: static monthly action**
@@ -134,7 +149,6 @@ Perhaps your water bill comes every 3 month. In that case the action will look l
 ![](../assets/images/changelog/static_monthly_action.png)
 
 ---
-
 ### Version 22.9.5:
 🌱 **Add: minor improvements for action readability**
 
@@ -164,7 +178,6 @@ Now you can clear search bar by simply clicking 'x' button at the end of the bar
 Note: some browsers natively support clear button in the search bar, but some don't. Now clear button is explicit in all browsers.
 
 ---
-
 ### Version 22.8.11:
 
 🌱 **Add: option to disable notifications**
@@ -172,7 +185,6 @@ Note: some browsers natively support clear button in the search bar, but some do
 Now you can disable notifications for an item. In an item settings you can find notifications checkbox, by turning it off you will no longer receive notifications for any upcoming actions.
 
 ---
-
 ### Version 22.8.9:
 
 🐞 **Fix: quick event full screen layout**
@@ -180,7 +192,6 @@ Now you can disable notifications for an item. In an item settings you can find 
 The bug was introduced in version 22.8.6. No functional impact to usability.
 
 ---
-
 ### Version 22.8.6:
 
 🐞 **Fix: outdated item name after editing an item**
@@ -192,7 +203,6 @@ The bug occurs when you go to an item events, then edit item, rename the item an
 Parts field is a legacy field, which is not useful for the most items. Presence of the field, most of the time creates confusion without any benefit. 
 
 ---
-
 ### Version 22.7.23:
 
 🌱 **Add: unicode support**
@@ -200,7 +210,6 @@ Parts field is a legacy field, which is not useful for the most items. Presence 
 Now you can name your items with unicode characters such as emoji 😃
 
 ---
-
 ### Version 22.7.6:
 🐞 **Fix: incorrect spelling of email notification subject**
 
@@ -222,7 +231,6 @@ therefore, there is no point of adding or looking up the action.
 Email notification subject will contain ⚠️ instead of !!!.
 
 ---
-
 ### Version 22.6.23:
 🐞 **Fix: incorrect units of work during import of an item**
 
@@ -230,7 +238,6 @@ The bug occurs when you import an item with units of work such as hours or kilom
 Units of work are disregarded and set to "miles" instead.
 
 ---
-
 ### Version 22.5.16:
 🐞 **Fix: origination date**
 
@@ -240,7 +247,6 @@ Item schedule calculates incorrectly and provides user with bad information.
 Now user can't pick a date in the future, only in the past. However, there is a manual override, which is not restricted at least for now.
 
 ---
-
 ### Version 22.5.2:
 🌱 **New feature: insufficient units of work**
 
@@ -253,7 +259,6 @@ Steps:
 - Navigate to dashboard and find the item, it should have a task with red icon, noting that sufficient information, 'please add current miles'
 
 ---
-
 ### Version 22.4.23:
 🌱 **New feature: maintenance card items for actions with insufficient events**
 
@@ -266,7 +271,6 @@ Steps:
 - Navigate to dashboard and find the item, it should have a task with red icon, noting that sufficient data is missing for the action
 
 ---
-
 ### Version 22.3.29:
 🌱 **New feature: notes for actions**
 
@@ -289,7 +293,6 @@ Supported import formats are:
 Now software is explicit about what kind of file can be imported and does not allow empty events or actions.
 
 ---
-
 ### Version 22.3.19:
 🐞 **Fix: mismatching events and actions**
 
@@ -302,7 +305,6 @@ The bug doesn't do any harm, but visually confusing.
 Tooltips should not present any 'undefined'.
 
 ---
-
 ### Version 22.3.12:
 🌱 **New feature: work hours**
 
