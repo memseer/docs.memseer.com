@@ -9,7 +9,7 @@ Additions and updates to the Memseer
 
 🐞 **Fix: responsive design for small screens**
 
-![](../assets/images/changelog/add_mini_logo_fix_design_for_small%20screen.png)
+![](../assets/images/changelog/add_mini_logo_fix_design_for_small.png)
 
 ---
 ### Version 22.12.22:
