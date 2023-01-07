@@ -65,7 +65,8 @@
     {
       "name": "replace coolant",
       "units": 3,
-      "unitOfWork": "years"
+      "unitOfWork": "years",
+      "notes": "3 litters of coolant considering only radiator drained\n\nInstructions:\n\n1. Drain radiator\n2. Fill radiator\n3. Fill reservoir to max value\n4. Mesh coolant pipes\n5. Top off radiator if needed\n6. Turn on car, turn heater on full, turn on fan\n7. Go for a ride, till temperature gets to a 1/4 of a gauge\n8. Come home and leave it seat. Vacuum is formed and sucks fluid out of reservoir and bleeds itself. Reason for not heating up engine to operating temperature is because if there is a air pocket, temperature reading will not be accurate and engine might overheat and break. \n9. Let car seat for at least couple of hours\n10. Check radiator, top it off\n11. Check reservoir and top it to max mark\n12. Make sure heater works - it indicates that coolant circulation is working and no air is in the system"
     },
     {
       "name": "replace license sticker",
