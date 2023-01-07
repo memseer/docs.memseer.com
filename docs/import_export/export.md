@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Export
-parent: Import & Export
+parent: Data management
 nav_order: 1
 ---
 
