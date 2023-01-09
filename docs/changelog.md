@@ -2,6 +2,11 @@
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+### Version 23.1.9:
+
+🌱 **Add: late notification**
+
+A monthly email notification for past due actions
 
 ### Version 22.12.23:
 
