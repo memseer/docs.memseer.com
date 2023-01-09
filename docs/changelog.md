@@ -8,6 +8,7 @@ Additions and updates to the Memseer
 
 A monthly email notification for past due actions
 
+---
 ### Version 22.12.23:
 
 🌱 **Add: mini logo**
