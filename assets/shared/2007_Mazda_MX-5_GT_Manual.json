@@ -72,7 +72,8 @@
     {
       "name": "replace coolant",
       "units": 3,
-      "unitOfWork": "years"
+      "unitOfWork": "years",
+      "notes": "Instructions:\n\nTurn heater on and fan on full!\n\nservice manual step 10 (to bleed system):\n\nAfter the engine warms up, perform the following steps. At this time, be careful of the coolant temperature to prevent overheating.\n\na. Run the engine at approx. 2500 rpm for 5 minutes\nb. Run the engine at proximities. 3000 rpm for 5 s, then idle\nc. Repeat step (b) 4-5 times"
     },
     {
       "name": "replace differential oil",
