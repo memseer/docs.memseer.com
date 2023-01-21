@@ -2,6 +2,18 @@
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+
+### Version 23.1.21:
+
+🌱 **Add: in-memory cache**
+
+In order to speed up app navigation and user interactions, events data is cached in-memory now.
+
+🐞 **Fix: NPE with typeahead in quick complete**
+
+Quick complete doesn't have a typeahead option since it meant to complete specific action and create specific event.
+
+--- 
 ### Version 23.1.9:
 
 🌱 **Add: late notification**
