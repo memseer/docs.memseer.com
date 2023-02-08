@@ -3,6 +3,12 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.2.8:
+🌱 **Add: in-memory cache**
+
+In order to speed up app navigation and user interactions, action and notification data is cached in-memory now.
+
+---
 ### Version 23.1.21:
 
 🌱 **Add: in-memory cache**
