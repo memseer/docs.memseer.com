@@ -3,6 +3,17 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.2.25:
+
+🌱 **Add: in-memory cache**
+
+In order to speed up app navigation and user interactions, item data is cached in-memory now.
+
+🛠 **Refactor: backend client**
+
+There are no changes to app functionality.
+
+---
 ### Version 23.2.8:
 🌱 **Add: in-memory cache**
 
