@@ -5,11 +5,11 @@ Additions and updates to the Memseer
 
 ### Version 23.3.2:
 
-🌱 Add: Password reset
+🌱 **Add: Password reset**
 
 The password reset workflow is now performed within the Memseer app without relying on third-party dependencies.
 
-✂️ Remove: Parse Platform's built-in password reset
+✂️ **Remove: Parse Platform's built-in password reset**
 
 Password reset will no longer be performed via Parse Platform's built-in flow.
 
