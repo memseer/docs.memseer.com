@@ -3,6 +3,17 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.3.2:
+
+🌱 Add: Password reset
+
+The password reset workflow is now performed within the Memseer app without relying on third-party dependencies.
+
+✂️ Remove: Parse Platform's built-in password reset
+
+Password reset will no longer be performed via Parse Platform's built-in flow.
+
+---
 ### Version 23.2.25:
 
 🌱 **Add: in-memory cache**
