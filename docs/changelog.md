@@ -3,6 +3,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.3.7:
+
+🐞 **Fix: 'insufficient information' warning due by invalid action**
+
+Invalid actions no longer trigger an "insufficient information" warning on the dashboard, and are now visibly identified in the UI.
+
+![](../assets/images/changelog/fix_insufficient_information_due_to_invalid_action.png)
+
+---
 ### Version 23.3.2:
 
 🌱 **Add: Password reset**
