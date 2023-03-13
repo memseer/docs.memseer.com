@@ -3,6 +3,17 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.3.13:
+
+🌱 **Add: email auto-fill for account signup**
+
+Now during signup, email is auto-filled from stripe checkout.
+
+✏️ **Change: backend response**
+
+Minor improvement to backend error handling, no change to functionality.
+
+---
 ### Version 23.3.7:
 
 🐞 **Fix: 'insufficient information' warning due by invalid action**
