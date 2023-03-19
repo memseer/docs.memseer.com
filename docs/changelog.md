@@ -3,6 +3,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.3.19:
+
+🐞 **Fix: miscalculation due to mistake in compensation for months with less than 31 days**
+
+**Note:** if you set action to take place on 31st of each month, it will skip months that do NOT have 31 days.
+For example: month of February will be skipped and next action will be scheduled for March 31st.
+
+![](../assets/images/changelog/fix_miscalculation_due_to_mistake_in_compensation_for_months_with_less_than_31_days.png)
+
+---
 ### Version 23.3.13:
 
 🌱 **Add: email auto-fill for account signup**
