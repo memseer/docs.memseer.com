@@ -10,7 +10,7 @@ What is Item, Events & Actions?
 {: .fs-6 .fw-300 }
 ---
 
-#Item
+# Item
 
 Item is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [events](#events) - in order to keep a log and [actions](#actions) to be performed if so desired.
 
