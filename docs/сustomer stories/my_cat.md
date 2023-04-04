@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: My cat
-parent: Use cases
+parent: Customer stories
 nav_order: 6
 ---
 

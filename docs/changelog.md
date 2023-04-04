@@ -1,3 +1,9 @@
+---
+layout: default 
+title: Changelog
+nav_order: 5
+---
+
 # Changelog
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }

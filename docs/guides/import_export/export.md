@@ -21,11 +21,11 @@ Item contains general information such as name of the item, date of origin, unit
 
 In order to export your item, go to dashboard, find desired item and click edit item (gear image).
 
-![](../../assets/images/import_export/item_settings_gear.png)
+![](../../../assets/images/import_export/item_settings_gear.png)
 
 Next scroll all the way to the bottom of the page and find "Export" button on the right side.
 
-![](../../assets/images/import_export/item_settings_export.png)
+![](../../../assets/images/import_export/item_settings_export.png)
 
 Click "Export" and item file will be saved to your device under item's name, for example:\
 `Miata GT.json` 
@@ -38,11 +38,11 @@ Events contain information about something that already took place, including na
 
 In order to export events, go to dashboard, find desired item and click on the item name.
 
-![](../../assets/images/import_export/item_events.png)
+![](../../../assets/images/import_export/item_events.png)
 
 Next scroll all the way to the bottom of the page and find "Export" button on the right side.
 
-![](../../assets/images/import_export/events_export.png)
+![](../../../assets/images/import_export/events_export.png)
 
 Click "Export" and events file will be saved to your device under item's name, for example:\
 `Miata GT.csv`

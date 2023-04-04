@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 1
+parent: Guides
 ---
 
 # How to sign up
@@ -14,15 +15,15 @@ Choose subscription model: $2 per month or $20 per year, both subscriptions have
 of features.\
 Next, you will be sent to the checkout page, where you can fill out your payment information.
 
-![](../assets/images/sign_up/checkout.jpg)
+![](../../assets/images/sign_up/checkout.jpg)
 
 Once you’ve completed checkout and clicked the “Subscribe” button, you will be redirected to a sign up page, where you need to fill out simple form: email &
 password.
 
-![](../assets/images/sign_up/sign_up.jpg)
+![](../../assets/images/sign_up/sign_up.jpg)
 
 Please note, the email will be used for email notifications and in case the need to restore or reset your password arises.\
 The password used must be at least 10 characters long with at least 1 uppercase, 1 lowercase and 1 digit.\
 Click “Go” and registration is complete, now you can sign in!
 
-![](../assets/images/sign_up/signin.jpg)
+![](../../assets/images/sign_up/signin.jpg)

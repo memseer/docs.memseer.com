@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Data management
-nav_order: 6
+nav_order: 2
+parent: Guides
 has_children: true
 ---
 
