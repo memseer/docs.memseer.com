@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: House
-parent: Customer stories
+parent: Use cases
 nav_order: 2
 ---
 

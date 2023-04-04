@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Motorcycle
-parent: Customer stories
+parent: Use cases
 nav_order: 5
 ---
 

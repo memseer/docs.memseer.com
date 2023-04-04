@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Keep in touch
-parent: Customer stories
+parent: Use cases
 nav_order: 3
 ---
 

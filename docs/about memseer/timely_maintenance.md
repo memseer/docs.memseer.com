@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 2
-parent: Blog
+parent: About Memseer
 ---
 
 # Timely Maintenance
