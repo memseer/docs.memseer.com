@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Customer stories
+title: Use cases
 nav_order: 3
 has_children: true
 ---

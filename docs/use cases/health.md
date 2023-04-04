@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Health
-parent: Customer stories
+parent: Use cases
 nav_order: 1
 ---
 
