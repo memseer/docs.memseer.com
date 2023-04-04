@@ -2,6 +2,7 @@
 layout: default
 title: Shared Items
 parent: Data management
+grand_parent: Guides
 nav_order: 3
 ---
 

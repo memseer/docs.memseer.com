@@ -2,6 +2,7 @@
 layout: default
 title: Import
 parent: Data management
+grand_parent: Guides
 nav_order: 2
 ---
 
