@@ -4,10 +4,20 @@ nav_order: 1
 parent: Guides
 ---
 
-# Item, Events & Actions
-
+# Overview
 What is Item, Events & Actions?
 {: .fs-6 .fw-300 }
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
 
 # Item
