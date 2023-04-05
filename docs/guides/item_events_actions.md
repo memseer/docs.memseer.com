@@ -5,9 +5,10 @@ parent: Guides
 ---
 
 # Overview
+{: .no_toc }
 What is Item, Events & Actions?
 {: .fs-6 .fw-300 }
-{: .no_toc }
+
 
 <details open markdown="block">
   <summary>
