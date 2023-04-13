@@ -21,11 +21,31 @@ What is Item, Events & Actions?
 
 ---
 
+# Dashboard
+
+The Dashboard is the central hub of Memseer, where you can view all your items and schedules in priority order.
+
+![](../../assets/images/dashboard.png)
+
+Each card on the Dashboard represents an item. Let's take a closer look at the information displayed on a single card:
+
+![](../../assets/images/overview/dashboard_card.png)
+
+1. The name of the item and the year it was originated.
+2. The last time an event was added, including the mileage (if applicable).
+3. The item's settings.
+4. The upcoming action that needs to be performed.
+5. A "quick complete" button for the action.
+6. An option to expand the card to see all scheduled actions sorted by upcoming priority.
+7. An option to add an event to the item.
+
+---
+
 # Item
 
 Item is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [events](#events) - in order to keep a log and [actions](#actions) to be performed if so desired.
 
-![](../../assets/images/item_events_actions/new_item.png)
+![](../../assets/images/overview/new_item.png)
 
 Item has several fields, which are optional.
 
@@ -43,7 +63,7 @@ Item has several fields, which are optional.
 
 An event is a simple record of what took place. Every event has a name, date, notes and sometimes work units (we will talk about it later). You can create as many events as you want to record different type of event that took place.
 
-![](../../assets/images/item_events_actions/past_present_date.png)
+![](../../assets/images/overview/past_present_date.png)
 
 **Note:** Date selection is limited to present or past dates, because this is an event, that took place already.
 
@@ -51,17 +71,17 @@ Event names are given in the present tense, for example: "replace air filter". T
 
 Event notes can contain anything you want to make note of. You can make a note of weather condition, part number, reasons for making certain decisions, the latest stock price and so on. I make extensive use of it when my kid gets sick. I record my observations in case I need to see a doctor at a later point, so I can provide as accurate information as possible.
 
-![](../../assets/images/item_events_actions/my_baby.png)
+![](../../assets/images/overview/my_baby.png)
 
 ### Work units
 
 Work units is an optional field for an event that appears whenever the item has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
 
-![](../../assets/images/item_events_actions/work_units.png)
+![](../../assets/images/overview/work_units.png)
 
 Work units field comes handy when you are dealing with machinery that needs maintenance based on mileage rather than time passage. For example, a vehicle needs spark plugs replaced after certain amount of miles.
 
-![](../../assets/images/item_events_actions/example_sparkplugs.png)
+![](../../assets/images/overview/example_sparkplugs.png)
 
 ---
 
@@ -69,11 +89,11 @@ Work units field comes handy when you are dealing with machinery that needs main
 
 An action is a record that indicates conditions when something should be done. Each action has a name, condition and notes. Let's take a look at vehicle's actions:
 
-![](../../assets/images/item_events_actions/example_actions.png)
+![](../../assets/images/overview/example_actions.png)
 
 In the example we can see various actions that should be performed at certain conditions, based on time and/or kilometers. How does an action determines when the condition is met? The action looks into [events](#events), finds the same-named event, and calculates date when the action should take place.
 
-![](../../assets/images/item_events_actions/example_vehicle.png)
+![](../../assets/images/overview/example_vehicle.png)
 
 Effectively actions are like rules or specifications that should be applied to an [item](#item).  
 
