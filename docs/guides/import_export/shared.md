@@ -30,4 +30,4 @@ You can find community shared items below.
 
 ### Other:
 [HVAC](../../../assets/shared/HVAC.json){:download=""}\
-[2018 NordicTrack T5.0 Treadmill](../../../assets/shared/2018_NordicTrack_T5.0.json){:download=""}\
+[2018 NordicTrack T5.0 Treadmill](../../../assets/shared/2018_NordicTrack_T5.0.json){:download=""}
