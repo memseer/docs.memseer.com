@@ -2,7 +2,7 @@
 layout: default 
 title: My cat
 parent: Use cases
-nav_order: 6
+nav_order: 7
 ---
 
 # My cat (or any other pet)
