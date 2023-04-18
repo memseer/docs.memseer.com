@@ -8,6 +8,8 @@ nav_order: 3
 # Data management
 {: .no_toc }
 
+True data ownership: your data, import it, export it, take it anywhere you want
+{: .fs-6 .fw-300 style="text-align: center;"}
 ---
 
 Your data split into 2 parts: [Item](../guides/overview.md#item) (includes actions) and [Events](../guides/overview.md#events). Both parts are independent of each other and can be imported/exported separately. 

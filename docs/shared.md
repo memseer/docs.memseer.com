@@ -3,7 +3,7 @@ layout: default
 title: Shared Items
 parent: Data management
 grand_parent: Guides
-nav_order: 3
+nav_order: 4
 ---
 
 # Shared Items
@@ -21,13 +21,13 @@ You can find community shared items below.
 
 ### Vehicles:
 
-[2007 Mazda MX-5 GT Manual](../../../assets/shared/2007_Mazda_MX-5_GT_Manual.json){:download=""}\
-[2004 Mazda Miata Manual](../../../assets/shared/2004_Mazda_Miata_Manual.json){:download=""}\
-[2016 Kia Soul Base Manual](../../../assets/shared/2016_Kia_Soul_Base_Manual.json){:download=""}\
-[2011 Hyundai Accent Auto](../../../assets/shared/2011_Hyundai_Accent_Auto.json){:download=""}\
-[2010 Citroen C4 1.6 VTi](../../../assets/shared/2010_Citroen_C4_1.6_VTi.json){:download=""}\
-[General Modern Toyotas](../../../assets/shared/General_Modern_Toyotas.json){:download=""}
+[2007 Mazda MX-5 GT Manual](../assets/shared/2007_Mazda_MX-5_GT_Manual.json){:download=""}\
+[2004 Mazda Miata Manual](../assets/shared/2004_Mazda_Miata_Manual.json){:download=""}\
+[2016 Kia Soul Base Manual](../assets/shared/2016_Kia_Soul_Base_Manual.json){:download=""}\
+[2011 Hyundai Accent Auto](../assets/shared/2011_Hyundai_Accent_Auto.json){:download=""}\
+[2010 Citroen C4 1.6 VTi](../assets/shared/2010_Citroen_C4_1.6_VTi.json){:download=""}\
+[General Modern Toyotas](../assets/shared/General_Modern_Toyotas.json){:download=""}
 
 ### Other:
-[HVAC](../../../assets/shared/HVAC.json){:download=""}\
-[2018 NordicTrack T5.0 Treadmill](../../../assets/shared/2018_NordicTrack_T5.0.json){:download=""}
+[HVAC](../assets/shared/HVAC.json){:download=""}\
+[2018 NordicTrack T5.0 Treadmill](../assets/shared/2018_NordicTrack_T5.0.json){:download=""}
