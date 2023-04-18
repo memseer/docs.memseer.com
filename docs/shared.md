@@ -9,7 +9,7 @@ List of shared items with preset actions
 {: .fs-6 .fw-300 }
 ---
 
-Memseer lets you [import](../docs/import_export/import.md) and [export](../docs/import_export/export.md) data, which enables sharing. You can share your items with the community, enriching the lives of others. For example, you can share your lawn mower item, which contains the maintenance and upkeep tasks that should be performed in order for the mower to function properly and last for a long time. This information can be valuable to others who own the same type of mower, as it can help them keep their mower in good working condition. By sharing your items, you can help others save money and resources, and you can also help build a stronger and more supportive community.
+Memseer lets you [export & import data](guides/data_management.md), which enables sharing. You can share your items with the community, enriching the lives of others. For example, you can share your lawn mower item, which contains the maintenance and upkeep tasks that should be performed in order for the mower to function properly and last for a long time. This information can be valuable to others who own the same type of mower, as it can help them keep their mower in good working condition. By sharing your items, you can help others save money and resources, and you can also help build a stronger and more supportive community.
 
 You can find community shared items below.
 
