@@ -6,7 +6,7 @@ parent: Guides
 
 # Overview
 {: .no_toc }
-What is Item, Events & Actions?
+What is Dashboard, Item, Events & Actions?
 {: .fs-6 .fw-300 }
 
 
