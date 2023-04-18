@@ -8,7 +8,7 @@ nav_order: 3
 # Data management
 {: .no_toc }
 
-True data ownership: your data, import it, export it, take it anywhere you want
+How to import & export data
 {: .fs-6 .fw-300 }
 ---
 
