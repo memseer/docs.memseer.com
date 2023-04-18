@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data management
-grand_parent: Guides
+parent: Guides
 nav_order: 3
 ---
 
@@ -13,6 +13,7 @@ nav_order: 3
 Your data split into 2 parts: [Item](../guides/overview.md#item) (includes actions) and [Events](../guides/overview.md#events). Both parts are independent of each other and can be imported/exported separately. 
 
 ---
+
 {:toc}
 
 --- 
