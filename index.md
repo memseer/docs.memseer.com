@@ -13,28 +13,35 @@ A new way to organize
 
 ---
 
-![](assets/images/dashboard.png)
+## Memseer keeps track so you don't have to
 
-### Memseer keeps track of your things by remembering events and associated actions.
+Memseer is simple and powerful organizational tool, similar to a logger or a household binder, but more capable. You can create items, populate it with events and associate with actions. Check out [the story](docs/about/the_story.md) behind Memseer and [use cases](docs/use%20cases/use_cases.md). 
 
-At the core there are two functionalities: event creation - a record of what happened and actions associated to an event. Action describes when an event should
-be performed.\
-`Example: event - donate blood, action - repeat every 6 month.`
+Once you set it up, you will be able to track everything at a glance, what needs your attention, what's coming up and traverse events back in history, so you don't need to remember all the small but important details.
 
-**Is Memseer a calendar?** No it is not. You can’t create meetings or appointments. Memseer doesn’t have hard dates or time allocations. If you miss a task, Memseer
-will not forget about it, unlike calendar.
-
-**Is Memseer a todo list?** Not exactly, while memseer can calculate when a task should be done, it doesn’t allow manual creation of one-off todo item. Memseer best
-suited for repeatable tasks.
-
-**Is Memseer a reminder?** Not exactly, you can’t create reminders manually, however Memseer does remind you about repeatable tasks that should be accomplished.
-
-### Why Memseer:
+## Highlights:
 - Easy planning: everything that needs attention at a glance
 - Simple: record events, set actions, see dashboard
-- Never lose important information: record, forget and look it up when needed
-- Reoccurring events annoying: set actions, see schedule and plan around it
+- Total recall: record, forget and look it up when needed
 - True data ownership: your data, import it, export it, take it anywhere you want
-- You are not the product: no tracker, no partners, no brokers, no ads
-- Anywhere: one site, email notification, mobile support
+- Anywhere: one website, mobile support, email notifications
+- Community: share your recipes for success 
+- You are not a product: no tracker, no partners, no brokers, no ads
+
+## FAQ:
+**Q:** Is Memseer a calendar?\
+**A:** No, Memseer is not a calendar, you can't create meetings or appointments. All the scheduling is done by the Memseer based on events and actions, checkout [overview](docs/guides/overview.md) for details. Memseer doesn't have hard dates or time allocations. If you miss a task, Memseer will not forget about it, unlike calendar.
+
+**Q:** Is Memseer a todo list?\
+**A:** No, Memseer is not a todo list, while it greatly resembles one, Memseer is completely automated. You don't manually create or schedule any tasks. Memseer automatically creates and schedules tasks based on events and associated actions.
+
+**Q:** Is Memseer a reminder?\
+**A:** No, Memseer is not a reminder. You can’t create reminders manually, however Memseer does remind you about repeatable tasks that should be accomplished.
+
+**Q:** What is Memseer best suited for?\
+**A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done a car, health history, gift records (even birthday notes) and more, please checkout [use case](docs/use%20cases/use_cases.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
+
+**Q:** Why Memseer is not free?\
+**A:** Memseer has simple and straightforward plan: pay and use. There are no investors, banks, partners or anyone expecting returns on their investment. There a no ads, data brokers, no one collects, aggregate or otherwise uses your data and information for financial gains. You are paying for the service and that is exactly what you are getting, no more, no less.
+
 
