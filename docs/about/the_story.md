@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 1
-parent: About Memseer
+parent: About
 ---
 
 # The Story
