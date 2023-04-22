@@ -31,7 +31,7 @@ Each card on the Dashboard represents an item. Let's take a closer look at the i
 
 ![](../../assets/images/overview/dashboard_card.png)
 
-1. The name of the item and the year it was originated.
+1. The name of the item and the year it was originated. By clicking item name, you will navigate to all the associated events.
 2. The last time an event was added, including the mileage (if applicable).
 3. The item's settings.
 4. The upcoming action that needs to be performed.
