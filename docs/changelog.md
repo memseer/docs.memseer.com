@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.5.6:
+
+🌱 **Add: mileage calculation**
+
+Now you can see how many miles/kilometers/hours an item is going per day, month and year. Simply click on the graph icon and see the mileage calculations.
+
+![](../assets/images/changelog/mileage.png)
+
+---
+
 ### Version 23.3.19:
 
 🐞 **Fix: miscalculation due to mistake in compensation for months with less than 31 days**
