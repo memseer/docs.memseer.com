@@ -7,7 +7,7 @@ nav_order: 5
 
 # Vehicle
 
-You have a vehicle and would like to keep it in a good shape, so lets put together list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/guides/import_export/shared.html). Please feel free to adjust maintenance intervals. 
+You have a vehicle and would like to keep it in a good shape, so lets put together list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
 
 Let's add new item from dashboard:
 
