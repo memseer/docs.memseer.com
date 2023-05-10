@@ -9,6 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.5.10:
+
+🐞 **Fix: NPE with invalid action**
+
+Event log becomes unusable when invalid action (without name) is present.
+
+🌱 **Add: minimum year for origination date**
+
+Previously, the origination date calendar only listed the recent 10 years. Now lists all years between 1920 and the present day.
+
+---
+
 ### Version 23.5.6:
 
 🌱 **Add: mileage calculation**
