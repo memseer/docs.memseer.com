@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: Use cases
+title: Examples
 nav_order: 3
 has_children: true
 ---
