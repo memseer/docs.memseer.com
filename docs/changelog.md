@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.5.13:
+
+✏️ **Change: documentation to resources**
+
+Rename documentation link to resource link for better clarity, per user feedback
+
+---
+
 ### Version 23.5.10:
 
 🐞 **Fix: NPE with invalid action**
