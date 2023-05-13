@@ -11,22 +11,22 @@ We all know - life is busy. Sometimes time flies so fast that it is hard to reme
 
 Create new item, give it a name (say sister Jesse), perhaps add an action: “contact Jesse” every 20 days. 
 
-![](../../assets/images/use_cases/keep_in_touch/add_new_item.png)
+![](../../assets/images/examples/keep_in_touch/add_new_item.png)
 
 Click “done” and return to dashboard.
 
-![](../../assets/images/use_cases/keep_in_touch/sister_jesse.png)
+![](../../assets/images/examples/keep_in_touch/sister_jesse.png)
 
 Click on “add last time the event took place”, pick the date you contacted Jesse last time, add notes and click “save”.
 
-![](../../assets/images/use_cases/keep_in_touch/add_new_event.png)
+![](../../assets/images/examples/keep_in_touch/add_new_event.png)
 
 Back at the dashboard and see next time you should contact Jesse. More over you can add event, let’s say you want to remember a flower shop that had great selection and delivered on time. Click “+ event”, give it a name (ex.: “send birthday flowers”), pick a date when you sent flowers, add notes and click “save”.
 
-![](../../assets/images/use_cases/keep_in_touch/add_new_event_2.png)
+![](../../assets/images/examples/keep_in_touch/add_new_event_2.png)
 
 You can view all the events by click on “sister Jesse”
 
-![](../../assets/images/use_cases/keep_in_touch/event_log_for_sister_jesse.png)
+![](../../assets/images/examples/keep_in_touch/event_log_for_sister_jesse.png)
 
 This way you can go back in time and recall what’s important to you and always keep in touch with people you care about.

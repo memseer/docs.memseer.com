@@ -23,21 +23,21 @@ so it reads as: “clean air filter every (repeats every) 25 hours”. Let’s k
 * adjust valve clearance every 100 hours
 * add grease pinion gears every 100 hours
 
-![](../../assets/images/use_cases/lawn_mower/new_item.png)
+![](../../assets/images/examples/lawn_mower/new_item.png)
 
 Now that you entered all the required actions, click “done”. You will land back to dashboard and see new item “my lawn mower” with warning sign saying
 “insufficient information… add current hours”. Memseer doesn’t know how many hours did you put on your lawn mower so far and it needs to know in order to
 calculate when and what needs to be done. 
 
-![](../../assets/images/use_cases/lawn_mower/insufficient_info.png)
+![](../../assets/images/examples/lawn_mower/insufficient_info.png)
 
 Click on warning sign and populate field “hours” with current milage so to speak, let’s say you done 5 hours so far,
 enter 5 and click “save”, back to the dashboard and you can see “my lawn mower” with a schedule, “what and when” something needs to be done.
 
-![](../../assets/images/use_cases/lawn_mower/schedule.png)
+![](../../assets/images/examples/lawn_mower/schedule.png)
 
 When time comes and you completed an action, lets say “clean air filter”, you can click on check mark across the action on the dashboard, enter current hours (
 ex.: 25 hours) and Memseer will re-calculate all the actions in order to provide you with approximate count down when next action is required. You don’t have
 keep hand-written notes and check it every time you are about to use the mower.
 
-![](../../assets/images/use_cases/lawn_mower/dashboard.png)
+![](../../assets/images/examples/lawn_mower/dashboard.png)

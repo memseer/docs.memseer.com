@@ -17,14 +17,14 @@ Add new item, name it and add following actions:
 * Inspect smoke detectors every 1 years
 * Replace water heater every 12 years
 
-![](../../assets/images/use_cases/house/new_item.png)
+![](../../assets/images/examples/house/new_item.png)
 
 You can add as many actions as you want but for the example lets leave it at those.
 
 Click “done” and you will be landed to dashboard with “my house” needing some attention. It needs to know when last time you performed those actions in order to
 calculate schedule for the future. Let’s fill out that information.
 
-![](../../assets/images/use_cases/house/insufficient_info.png)
+![](../../assets/images/examples/house/insufficient_info.png)
 
 Click on red icon next to “replace air filter” and change current date to the date when air filter got replaced last time. If you don’t remember, it is ok, just
 approximate. Now click “save” and you will be back to the dashboard. Fill out the rest of the missing information for “inspect smoke detectors” and “replace
@@ -33,4 +33,4 @@ water heater”.
 Now that everything is populated, you can see “my house” on the dashboard with information on each particular action: what is the action, when it should occur
 and last time the event took place. Everything is at the palm of your hand. Enjoy!
 
-![](../../assets/images/use_cases/house/dashboard.png)
+![](../../assets/images/examples/house/dashboard.png)

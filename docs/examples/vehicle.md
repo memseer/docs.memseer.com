@@ -11,11 +11,11 @@ You have a vehicle and would like to keep it in a good shape, so lets put togeth
 
 Let's add new item from dashboard:
 
-![](../../assets/images/use_cases/vehicle/add_new_item.png)
+![](../../assets/images/examples/vehicle/add_new_item.png)
 
 Give it a name (for example: "my favorite car"), click "work units", select "miles" from the dropdown and select origination date:
 
-![](../../assets/images/use_cases/vehicle/my_favorite_car.png)
+![](../../assets/images/examples/vehicle/my_favorite_car.png)
 
 Now it is time to add actions! Here is a list of actions that we will be adding:
 
@@ -34,32 +34,32 @@ Now it is time to add actions! Here is a list of actions that we will be adding:
 
 Click on "+" under "Actions" section and fill out first action:
 
-![](../../assets/images/use_cases/vehicle/first_action.png)
+![](../../assets/images/examples/vehicle/first_action.png)
 
 Continue adding actions, so you end up with following list:
 
-![](../../assets/images/use_cases/vehicle/my_favorite_car_with_actions.png)
+![](../../assets/images/examples/vehicle/my_favorite_car_with_actions.png)
 
 Now click "done". You will be dropped back to dashboard, and you will see your new item:
 
-![](../../assets/images/use_cases/vehicle/new_item.png)
+![](../../assets/images/examples/vehicle/new_item.png)
 
 Note, there is a warning sign, indicating some missing information - which is normal because there is no current milage provided for the vehicle. Let's add that information, click on the warning sign and fill out current miles (for example vehicle done 100 miles this far):
 
-![](../../assets/images/use_cases/vehicle/add_current_miles.png)
+![](../../assets/images/examples/vehicle/add_current_miles.png)
 
 Click "save" and you will be returned to the dashboard. Now there is no more missing information, all the actions are displayed properly:
 
-![](../../assets/images/use_cases/vehicle/no_missing_information.png)
+![](../../assets/images/examples/vehicle/no_missing_information.png)
 
 **Please note:** at the current pace of 100 miles per day, you will hit you first oil change in about 2 months. But perhaps you don't drive 100 miles per day and only done 100 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
 
 Lets say few days gone by, we can add new event with current milage, let's click on "+ event"
 
-![](../../assets/images/use_cases/vehicle/add_quick_event.png)
+![](../../assets/images/examples/vehicle/add_quick_event.png)
 
 Type "current miles" into name field and add current miles into miles field (lets say you are at 110 miles), click save and you will be dropped back to the dashboard with recalculated schedule:
 
-![](../../assets/images/use_cases/vehicle/recalculated_schedule.png)
+![](../../assets/images/examples/vehicle/recalculated_schedule.png)
 
 Now your oil service is calculated to be in 6 months. As you keep driving and adding more events to the item, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
