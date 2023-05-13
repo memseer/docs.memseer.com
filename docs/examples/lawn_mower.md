@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Lawn mower
-parent: Use cases
+parent: Examples
 nav_order: 4
 ---
 

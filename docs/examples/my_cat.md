@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: My cat
-parent: Use cases
+parent: Examples
 nav_order: 7
 ---
 

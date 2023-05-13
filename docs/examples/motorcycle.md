@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Motorcycle
-parent: Use cases
+parent: Examples
 nav_order: 6
 ---
 

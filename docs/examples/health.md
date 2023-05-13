@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Health
-parent: Use cases
+parent: Examples
 nav_order: 1
 ---
 

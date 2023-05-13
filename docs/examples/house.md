@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: House
-parent: Use cases
+parent: Examples
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vehicle
-parent: Use cases
+parent: Examples
 nav_order: 5
 ---
 

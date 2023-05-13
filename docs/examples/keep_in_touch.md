@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Keep in touch
-parent: Use cases
+parent: Examples
 nav_order: 3
 ---
 
