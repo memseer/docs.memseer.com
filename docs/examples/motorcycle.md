@@ -9,6 +9,10 @@ nav_order: 6
 
 You have a motorcycle and you want to inspect chain every 500 kilometers.
 
+![](../../assets/images/sign_up/signin.jpg)
+
+Enter your email and password and complete sign in. 
+
 ![](../../assets/images/examples/motorcycle/add_new_item.png)
 
 Go ahead and create new item. Give it a name, check “work units” and select

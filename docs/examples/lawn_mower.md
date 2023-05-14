@@ -12,6 +12,10 @@ done every 50 hours of work or every 25 under heavy loads. Check grass bag every
 addition flywheel break pad, valve clearance and pinion gears should be check, adjusted and/or greased every 100 hours. Kinda long list to remember, but we can
 use Memseer to keep track of each and every point.
 
+![](../../assets/images/sign_up/signin.jpg)
+
+Enter your email and password and complete sign in. 
+
 Let’s add new item, give it a name “my lawn mower”, click “work units” and select “hours” from the dropdown. Let’s select “origination date” to manufacturing
 date, it can be approximated to a year if you don’t remember when it was purchased. Now it is time to set actions, click “+” under actions and populate fields
 so it reads as: “clean air filter every (repeats every) 25 hours”. Let’s keep adding new actions, click “+” for every new action:

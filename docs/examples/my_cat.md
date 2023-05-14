@@ -10,7 +10,11 @@ nav_order: 7
 You got a cat, which needs to be looked after, periodically vaccinated, given anti-parasite medication and occasionally have its nails cut. Let’s create new
 item, so we can effortlessly keep track of all important events. Give it a name and set origination date to the birthday of the cat. Next click “+” and add
 actions such as “anti parasitic treatment”. Consult your veterinarian on the frequency of the treatment. In our example we will set frequency to every 3 month
-and a period from March to November. 
+and a period from March to November.
+
+![](../../assets/images/sign_up/signin.jpg)
+
+Enter your email and password and complete sign in. 
 
 ![](../../assets/images/examples/cat/new_item.png)
 

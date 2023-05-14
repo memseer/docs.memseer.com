@@ -11,6 +11,10 @@ Health is one of the most precious things we got. We tend to not think of it whe
 we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let’s take charge of it and setup
 yearly checkup with doctor, dentist and perhaps a blood donation.
 
+![](../../assets/images/sign_up/signin.jpg)
+
+Enter your email and password and complete sign in. 
+
 ![](../../assets/images/examples/health/add_new_item.png)
 
 Add new item and name it “my health”, you can add your own birthday (if you want). Let’s add following actions:
