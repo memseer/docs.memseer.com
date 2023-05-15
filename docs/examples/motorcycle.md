@@ -9,7 +9,7 @@ nav_order: 6
 
 You have a motorcycle, and you want to inspect chain every 500 kilometers.
 
-Navigate to [memseer.com](memseer.com){:target="_blank"}
+Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/sign_up/signin.jpg)
 

@@ -11,7 +11,7 @@ Health is one of the most precious things we got. We tend to not think of it whe
 we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let’s take charge of it and setup
 yearly checkup with doctor, dentist and perhaps a blood donation.
 
-Navigate to [memseer.com](memseer.com){:target="_blank"}
+Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/sign_up/signin.jpg)
 

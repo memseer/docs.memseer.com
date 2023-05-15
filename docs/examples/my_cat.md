@@ -12,7 +12,7 @@ item, so we can effortlessly keep track of all important events. Give it a name 
 actions such as “anti parasitic treatment”. Consult your veterinarian on the frequency of the treatment. In our example we will set frequency to every 3 month
 and a period from March to November.
 
-Navigate to [memseer.com](memseer.com){:target="_blank"}
+Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/sign_up/signin.jpg)
 

@@ -11,7 +11,7 @@ You have a house, and it requires some minimum level of maintenance. Every few m
 detectors once per year? Every 12 years or so water tank needs to be replaced and perhaps every 15-20 years shingles on the roof should be replaced. No one
 enjoys waking up one morning without hot water or water dripping from a top. So lets create a house item and set few actions to it.
 
-Navigate to [memseer.com](memseer.com){:target="_blank"}
+Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/sign_up/signin.jpg)
 
