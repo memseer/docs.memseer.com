@@ -12,6 +12,8 @@ done every 50 hours of work or every 25 under heavy loads. Check grass bag every
 addition flywheel break pad, valve clearance and pinion gears should be check, adjusted and/or greased every 100 hours. Kinda long list to remember, but we can
 use Memseer to keep track of each and every point.
 
+Navigate to [memseer.com](memseer.com){:target="_blank"}
+
 ![](../../assets/images/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in. 

@@ -9,6 +9,8 @@ nav_order: 3
 
 We all know - life is busy. Sometimes time flies so fast that it is hard to remember and recollect when was the last time you spoke to a friend or a family member or even a client, and what was the conversation about. You know it is important, you know if you just recall one piece, the entire conversation will come back to you. How long has it been since you’ve last spoken? Did she get a new job or a promotion? What is a name of new born? What present did I send her last Christmas? We all been there, but we don’t have to anymore.
 
+Navigate to [memseer.com](memseer.com){:target="_blank"}
+
 ![](../../assets/images/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in.

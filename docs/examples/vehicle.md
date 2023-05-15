@@ -9,6 +9,8 @@ nav_order: 5
 
 You have a vehicle and would like to keep it in a good shape, so lets put together list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
 
+Navigate to [memseer.com](memseer.com){:target="_blank"}
+
 ![](../../assets/images/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in.
