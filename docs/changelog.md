@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.5.23:
+
+🌱 **Add: icon and tooltip to event log link**
+
+![](../assets/images/changelog/add_icon_and_tooltip_to_event_log_link.png)
+
+
+---
+
 ### Version 23.5.13:
 
 ✏️ **Change: documentation to resources**
