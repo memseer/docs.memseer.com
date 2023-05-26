@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.5.26:
+
+🛠 **Update: main dependencies**
+
+There are no changes to functionality.
+
+---
+
 ### Version 23.5.23:
 
 🌱 **Add: icon and tooltip to event log link**

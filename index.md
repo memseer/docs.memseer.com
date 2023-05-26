@@ -17,7 +17,7 @@ A new way to organize
 
 Memseer is simple and powerful organizational tool, similar to a logbook or a household binder, but more capable. You can create items, populate them with events and associate with actions. Check out [the story](docs/about/the_story.md) behind Memseer and [examples](docs/examples/examples.md). 
 
-Once you set it up, you will be able to track everything at a glance: what needs your attention, what's coming up and traverse events back in history. So, you don't need to remember all the small but important details.
+Once you set it up, you will be able to track everything at a glance: what needs your attention, what's coming up and traverse events back in history. So, you don't have to remember all the small but important details.
 
 ## Highlights:
 - Easy planning: everything that needs attention at a glance
