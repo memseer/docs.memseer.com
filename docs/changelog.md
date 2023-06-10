@@ -9,6 +9,21 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.6.10:
+
+🌱 **Add: minimum year an event**
+
+Previously, calendar only listed the recent 10 years. Now lists all years between 1920 and the present day.
+
+🌱 **Add: tooltips**
+
+🛠 **Update: main dependencies**
+
+There are no changes to functionality.
+
+---
+
+
 ### Version 23.5.26:
 
 🛠 **Update: main dependencies**
