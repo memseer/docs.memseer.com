@@ -73,7 +73,7 @@ Event notes can contain anything you want to make note of. You can make a note o
 
 ![](../../assets/images/overview/my_baby.png)
 
-### Work units
+## Work units
 
 Work units is an optional field for an event that appears whenever the item has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
 
