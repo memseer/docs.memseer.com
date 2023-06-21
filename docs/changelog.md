@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.6.20:
+
+🌱 **Add: state for save and revert button in event log**
+
+Now, when editing the event log, the save and revert buttons will be disabled when no changes have been made, but they will become enabled as soon as edits are made. This enhancement allows for better control and convenience when saving or reverting changes in the event log.
+
+![](../assets/images/changelog/add_enabled_and_disabled_state_for_save_and_revert_button_in_event_log.png)
+
+---
+
 ### Version 23.6.10:
 
 🌱 **Add: minimum year an event**
@@ -23,8 +33,7 @@ There are no changes to functionality.
 
 ---
 
-
-### Version 23.5.26:
+### Version 23.5.26:3
 
 🛠 **Update: main dependencies**
 
