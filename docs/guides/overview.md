@@ -31,7 +31,7 @@ Each card on the Dashboard represents an item. Let's take a closer look at the i
 
 ![](../../assets/images/overview/dashboard_card.png)
 
-1. The name of the item and the year it was originated. By clicking item name, you will navigate to all the associated events.
+1. The name of the item and the year it was originated. By clicking item name, you will navigate to all the associated events / event log.
 2. The last time an event was added, including the mileage (if applicable).
 3. The item's settings.
 4. The upcoming action that needs to be performed.
@@ -97,4 +97,26 @@ In the example we can see various actions that should be performed at certain co
 
 Effectively actions are like rules or specifications that should be applied to an [item](#item).  
 
+## Creating action(s)
 
+There are two ways to create actions: directly, by navigating to "Item & Actions" and adding new actions, or by creating actions from existing events. 
+
+The first method involves navigating to "Item & Actions" and adding new actions. Here's an image that illustrates this process:
+
+![](../../assets/images/overview/create_action_edit_item_and_actions.png)
+
+The second method is useful when you already have events and want to create actions based on them. To do this, navigate to an event log and identify the event that requires an action. For example, let's say we have an event called "check water chemistry," which occurs every week based on the dates between events.
+
+![](../../assets/images/overview/example_hot_tub_check_water.png)
+
+To create an action from this event, click on the "+" plus sign. You will be redirected to the "Item & Actions" page, where the newly created action will be highlighted:
+
+![](../../assets/images/overview/newly_created_action.png)
+
+Next, you need to set the unit to "1" and select "weeks." Leave everything else as default and click "Done":
+
+![](../../assets/images/overview/newly_created_action_complete.png)
+
+Congratulations! You have successfully created an action. You can view it on the dashboard and also find it under the 'i' icon in the top-right corner of the event name:
+
+![](../../assets/images/overview/example_hot_tub_check_water_complete.png)
