@@ -10,8 +10,8 @@ Feature requests, bug reports & community recipes
 ---
 
 - 📢 We want your feedback! Help us improve by sharing your thoughts
-- 💡 Have a great idea? Submit a feature request, and we'll bring it to life.
-- 🍲 Share your item maintenance recipe through a pull request. Benefit everyone with your expertise.
+- 💡 Have an idea? Submit a feature request, and we'll bring it to life.
+- 🍲 Share your item maintenance recipe through a pull request. Bring benefit community with your expertise.
 
 Submit feedback, feature requests and recipes on [GitHub](https://github.com/memseer/docs.memseer.com).
 
