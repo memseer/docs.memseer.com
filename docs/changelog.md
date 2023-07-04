@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.7.4:
+
+🐞 **Fix: late notification**
+
+Due to infrastructure update, backend query broke. 
+
+---
+
 ### Version 23.6.20:
 
 🌱 **Add: state for save and revert button in event log**
@@ -33,7 +41,7 @@ There are no changes to functionality.
 
 ---
 
-### Version 23.5.26:3
+### Version 23.5.26:3l
 
 🛠 **Update: main dependencies**
 
