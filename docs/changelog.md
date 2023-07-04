@@ -13,7 +13,11 @@ Additions and updates to the Memseer
 
 🐞 **Fix: late notification**
 
-Due to infrastructure update, backend query broke. 
+Due to infrastructure update, backend query broke.
+
+🐞 **Fix: state for save and revert button in event log**
+
+Buttons remain disabled after import of events
 
 ---
 
