@@ -45,7 +45,7 @@ There are no changes to functionality.
 
 ---
 
-### Version 23.5.26:3l
+### Version 23.5.26:
 
 🛠 **Update: main dependencies**
 
