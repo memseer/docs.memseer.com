@@ -9,6 +9,20 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.7.19:
+
+🌱 **Add: state for save and revert button in item view**
+
+Now, when editing the item or actions, the save and revert buttons will be disabled when no changes have been made, but they will become enabled as soon as edits are made. This enhancement allows for better control and convenience when saving or reverting changes in the item view.
+
+![](../assets/images/changelog/add_enabled_and_disabled_state_for_save_and_revert_button_in_item_view.png)
+
+🐞 **Fix: data persistence under error conditions**
+
+Under certain backend error conditions, the application would navigate back to the dashboard without saving all the data. 
+
+---
+
 ### Version 23.7.4:
 
 🐞 **Fix: late notification**
