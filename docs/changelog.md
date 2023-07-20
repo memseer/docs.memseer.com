@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.7.20:
+
+🌱 **Add: event search includes new record**
+
+New records now appear at the top of event search results for quick reference.
+
+![](../assets/images/changelog/add_event_search_includes_new_record.png)
+
+---
+
 ### Version 23.7.19:
 
 🌱 **Add: state for save and revert button in item view**
