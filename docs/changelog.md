@@ -9,6 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.7.29:
+
+🌱 **Add: date check in event log**
+
+![](../assets/images/changelog/add_date_check_in_event.png)
+
+🌱 **Add: date check in item**
+
+![](../assets/images/changelog/add_date_check_in_item.png)
+
+---
+
 ### Version 23.7.20:
 
 🌱 **Add: event search includes new record**
