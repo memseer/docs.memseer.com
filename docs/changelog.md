@@ -9,6 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.8.5:
+
+🐞 **Fix: item revert**
+
+Reverted item settings were not being displayed to the user.
+
+🛠 **Refactor: item routing**
+
+Now, only the item's objectId is passed, rather than the entire item object.
+
+---
+
 ### Version 23.7.29:
 
 🌱 **Add: date check in event log**
