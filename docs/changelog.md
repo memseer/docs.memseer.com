@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.8.12:
+
+🌱 **Add: cached item retrieval**
+
+For enhanced app navigation and user interactions, item retrieval by id is now cached.
+
+---
+
 ### Version 23.8.5:
 
 🐞 **Fix: item revert**
