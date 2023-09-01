@@ -9,6 +9,19 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.9.1:
+
+🐞 **Fix: scheduling of actions with 'between' condition**
+
+Example:
+- cut front yard - every 5 days between apr and may
+- cut front yard - every 10 days between jun and aug
+- cut front yard - every 13 days between sep and oct
+
+Previously, when scheduling an action like cutting the front yard every 10 days between June and August, starting from May 30th, it incorrectly triggered after 11 days. The fix now correctly counts from May 30th, resulting in the next event on June 9th, aligning with the intended behavior.
+
+---
+
 ### Version 23.8.12:
 
 🌱 **Add: cached item retrieval**
