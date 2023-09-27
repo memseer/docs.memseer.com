@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.9.27:
+
+🌱 **Add: brief instructions for password creation on signup**
+
+🛠 **Update: dependencies in backend**
+
+There are no changes to functionality.
+
+---
+
 ### Version 23.9.1:
 
 🐞 **Fix: scheduling of actions with 'between' condition**
