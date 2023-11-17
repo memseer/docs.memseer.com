@@ -15,7 +15,7 @@ A new way to organize
 
 ## Memseer keeps track so you don't have to
 
-Memseer is simple and powerful organizational tool, similar to a logbook or a household binder, but more capable. You can create items, populate them with events and associate with actions. Check out [the story](docs/about/the_story.md) behind Memseer and [examples](docs/examples/examples.md). 
+Memseer is simple and powerful organizational tool, similar to a logbook or a household binder, but more capable. You can create items, populate them with events and associate with actions. Check out [the story](docs/about/the_story.md) behind Memseer and [examples](docs/examples/index.md). 
 
 Once you set it up, you will be able to track everything at a glance: what needs your attention, what's coming up and traverse events back in history. So, you don't have to remember all the small but important details.
 
@@ -39,7 +39,7 @@ Once you set it up, you will be able to track everything at a glance: what needs
 **A:** No, Memseer is not a reminder. You can’t create reminders manually, however Memseer does remind you about repeatable tasks that should be accomplished.
 
 **Q:** What is Memseer best suited for?\
-**A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done on a car, health history, gift records (even birthday notes) and more, please checkout [examples](docs/examples/examples.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
+**A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done on a car, health history, gift records (even birthday notes) and more, please checkout [examples](docs/examples/index.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
 
 **Q:** Why is Memseer not free?\
 **A:** Memseer has a simple and straightforward plan: pay and use. There are no investors, banks, partners or anyone expecting returns on their investment. There a no ads, data brokers, no one collects, aggregates or otherwise uses your data and information for financial gains. You are paying for the service and that is exactly what you are getting, no more, no less.
