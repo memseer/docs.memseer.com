@@ -9,6 +9,28 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.11.23:
+
+🌱 **Add: file attachment for events**
+
+Now, you are able to attach file to any existing event.
+
+**Note:** currently, you CANNOT import or export files, but you can download and upload files manually.
+
+![](../assets/images/changelog/file_attachment_for_events.png)
+
+Upload any file, but please keep the file size under 5 MB.
+
+![](../assets/images/changelog/file_attachment_for_events_2.png)
+
+Download and/or remove file whenever you want.
+
+🛠 **Refactor: client headers**
+
+There are no changes to functionality.
+
+---
+
 ### Version 23.9.27:
 
 🌱 **Add: brief instructions for password creation on signup**
