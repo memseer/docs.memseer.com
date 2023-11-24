@@ -13,7 +13,7 @@ enjoys waking up one morning without hot water or water dripping from a top. So 
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
-![](../../assets/images/sign_up/signin.jpg)
+![](../../assets/images/guides/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in.
 

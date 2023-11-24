@@ -11,7 +11,7 @@ We all know - life is busy. Sometimes time flies so fast that it is hard to reme
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
-![](../../assets/images/sign_up/signin.jpg)
+![](../../assets/images/guides/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in.
 

@@ -13,7 +13,7 @@ yearly checkup with doctor, dentist and perhaps a blood donation.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
-![](../../assets/images/sign_up/signin.jpg)
+![](../../assets/images/guides/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in. 
 

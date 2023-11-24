@@ -29,7 +29,7 @@ The Dashboard is the central hub of Memseer, where you can view all your items a
 
 Each card on the Dashboard represents an item. Let's take a closer look at the information displayed on a single card:
 
-![](../../assets/images/overview/dashboard_card.png)
+![](../../assets/images/guides/overview/dashboard_card.png)
 
 1. The name of the item and the year it was originated. By clicking item name, you will navigate to all the associated events / event log.
 2. The last time an event was added, including the mileage (if applicable).
@@ -45,7 +45,7 @@ Each card on the Dashboard represents an item. Let's take a closer look at the i
 
 Item is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [events](#events) - in order to keep a log and [actions](#actions) to be performed if so desired.
 
-![](../../assets/images/overview/new_item.png)
+![](../../assets/images/guides/overview/new_item.png)
 
 Item has several fields, which are optional.
 
@@ -63,7 +63,7 @@ Item has several fields, which are optional.
 
 An event is a simple record of what took place. Every event has a name, date, notes and sometimes work units (we will talk about it later). You can create as many events as you want to record different type of event that took place.
 
-![](../../assets/images/overview/past_present_date.png)
+![](../../assets/images/guides/overview/past_present_date.png)
 
 **Note:** Date selection is limited to present or past dates, because this is an event, that took place already.
 
@@ -71,17 +71,17 @@ Event names are given in the present tense, for example: "replace air filter". T
 
 Event notes can contain anything you want to make note of. You can make a note of weather condition, part number, reasons for making certain decisions, the latest stock price and so on. I make extensive use of it when my kid gets sick. I record my observations in case I need to see a doctor at a later point, so I can provide as accurate information as possible.
 
-![](../../assets/images/overview/my_baby.png)
+![](../../assets/images/guides/overview/my_baby.png)
 
 ## Work units
 
 Work units is an optional field for an event that appears whenever the item has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
 
-![](../../assets/images/overview/work_units.png)
+![](../../assets/images/guides/overview/work_units.png)
 
 Work units field comes handy when you are dealing with machinery that needs maintenance based on mileage rather than time passage. For example, a vehicle needs spark plugs replaced after certain amount of miles.
 
-![](../../assets/images/overview/example_sparkplugs.png)
+![](../../assets/images/guides/overview/example_sparkplugs.png)
 
 ---
 
@@ -89,11 +89,11 @@ Work units field comes handy when you are dealing with machinery that needs main
 
 An action is a record that indicates conditions when something should be done. Each action has a name, condition and notes. Let's take a look at vehicle's actions:
 
-![](../../assets/images/overview/example_actions.png)
+![](../../assets/images/guides/overview/example_actions.png)
 
 In the example we can see various actions that should be performed at certain conditions, based on time and/or kilometers. How does an action determines when the condition is met? The action looks into [events](#events), finds the same-named event, and calculates date when the action should take place.
 
-![](../../assets/images/overview/example_vehicle.png)
+![](../../assets/images/guides/overview/example_vehicle.png)
 
 Effectively actions are like rules or specifications that should be applied to an [item](#item).  
 
@@ -103,20 +103,20 @@ There are two ways to create actions: directly, by navigating to "Item & Actions
 
 The first method involves navigating to "Item & Actions" and adding new actions. Here's an image that illustrates this process:
 
-![](../../assets/images/overview/create_action_edit_item_and_actions.png)
+![](../../assets/images/guides/overview/create_action_edit_item_and_actions.png)
 
 The second method is useful when you already have events and want to create actions based on them. To do this, navigate to an event log and identify the event that requires an action. For example, let's say we have an event called "check water chemistry," which occurs every week based on the dates between events.
 
-![](../../assets/images/overview/example_hot_tub_check_water.png)
+![](../../assets/images/guides/overview/example_hot_tub_check_water.png)
 
 To create an action from this event, click on the "+" plus sign. You will be redirected to the "Item & Actions" page, where the newly created action will be highlighted:
 
-![](../../assets/images/overview/newly_created_action.png)
+![](../../assets/images/guides/overview/newly_created_action.png)
 
 Next, you need to set the unit to "1" and select "weeks." Leave everything else as default and click "Done":
 
-![](../../assets/images/overview/newly_created_action_complete.png)
+![](../../assets/images/guides/overview/newly_created_action_complete.png)
 
 Congratulations! You have successfully created an action. You can view it on the dashboard and also find it under the 'i' icon in the top-right corner of the event name:
 
-![](../../assets/images/overview/example_hot_tub_check_water_complete.png)
+![](../../assets/images/guides/overview/example_hot_tub_check_water_complete.png)

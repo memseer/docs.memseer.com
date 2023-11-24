@@ -11,7 +11,7 @@ You have a motorcycle, and you want to inspect chain every 500 kilometers.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
-![](../../assets/images/sign_up/signin.jpg)
+![](../../assets/images/guides/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in. 
 

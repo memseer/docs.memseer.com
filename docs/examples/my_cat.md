@@ -14,7 +14,7 @@ and a period from March to November.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
-![](../../assets/images/sign_up/signin.jpg)
+![](../../assets/images/guides/sign_up/signin.jpg)
 
 Enter your email and password and complete sign in. 
 
