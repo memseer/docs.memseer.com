@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.11.29:
+
+🌱 **Add: upload file limit**
+
+File size is limited to 20 megabytes
+
+![](../assets/images/changelog/add_upload_size_limit.jpg)
+
+---
+
 ### Version 23.11.23:
 
 🌱 **Add: file attachment for events**
