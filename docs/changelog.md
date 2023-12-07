@@ -9,6 +9,20 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.12.7:
+
+🌱 **Add: total size of all files**
+
+![](../assets/images/changelog/add_total_size_of_all_files.jpg)
+
+🌱 **Add: tooltip for attached file**
+
+Now, users can see the filename in a tooltip when hovering over the download button.
+
+![](../assets/images/changelog/add_tooltip_to_attached_file.jpg)
+
+---
+
 ### Version 23.11.29:
 
 🌱 **Add: upload file limit**
