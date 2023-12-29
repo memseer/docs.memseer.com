@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 23.12.29:
+
+🌱 **Add: file attachment for quick event**
+
+Now, you are able to attach file in quick event.
+
+![](../assets/images/changelog/add_file_attachment_for_quick_event.jpg)
+
+---
+
 ### Version 23.12.7:
 
 🌱 **Add: total size of all files**
