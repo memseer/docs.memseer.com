@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.2.11:
+
+🌱 **Add: sessions termination upon password reset**
+
+Now, when you reset your password, we automatically terminate all active sessions for added security.
+
+---
+
 ### Version 24.1.14:
 
 🌱 **Add: event data export with file attachments**
@@ -17,6 +25,7 @@ You can now export event data, including attachments, as a zip file. Once unarch
 
 ![](../assets/images/changelog/add_event_data_export_with_file_attachments.jpg)
 
+---
 
 ### Version 23.12.29:
 
