@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.2.15:
+
+🐞 **Fix: improper handling of events with missing units in data import**
+
+Resolved an issue where events without specified units of measurement (e.g., kilometers, miles, hours) were incorrectly processed during data import. This led to failures in persisting such event data. 
+
+---
+
 ### Version 24.2.11:
 
 🌱 **Add: sessions termination upon password reset**
