@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.2.26:
+
+🌱 **Add: import of action notes**
+
+Now, when importing items, you can also include notes for each action.
+
+---
+
 ### Version 24.2.15:
 
 🐞 **Fix: improper handling of events with missing units in data import**
