@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.3.31:
+
+🌱 **Add: user space indicator**
+
+Now, you can view used space at a glance to manage storage better.
+
+![](../assets/images/changelog/add_user_space_indicator.jpg)
+
+---
+
 ### Version 24.2.26:
 
 🌱 **Add: import of action notes**
