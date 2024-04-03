@@ -9,6 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.4.3:
+
+🌱 **Add: striped bar for used space**
+
+![](../assets/images/changelog/add_striped_bar_for_used_space.jpg)
+
+🐞 **Fix: quick event bug: when new event caches even after file upload failed**
+
+🐞 **Fix: double-clicking 'save' button in quick event**
+
+---
+
 ### Version 24.3.31:
 
 🌱 **Add: user space indicator**
