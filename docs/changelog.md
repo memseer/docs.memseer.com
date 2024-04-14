@@ -9,6 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.4.14:
+
+🌱 **Add: check for free space before uploading files**
+
+The app now checks for available storage space before starting the file upload.
+
+🐞 **Fix: file re-selection after revert**
+
+Now you can select new file to upload after hitting the revert button.
+
+---
+
 ### Version 24.4.3:
 
 🌱 **Add: striped bar for used space**
