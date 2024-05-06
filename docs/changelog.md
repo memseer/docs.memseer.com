@@ -9,6 +9,23 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+
+### Version 24.5.6:
+
+🐞 **Fix: item's origination date can be set to the current date**
+
+🛠 **Refactor: events and item UI to have a sticky footer**
+
+_Before_:
+
+![](../assets/images/changelog/refactor_events_and_item_ui_with_sticky_footer_before.jpg)
+
+_After_:
+
+![](../assets/images/changelog/refactor_events_and_item_ui_with_sticky_footer_after.jpg)
+
+---
+
 ### Version 24.4.14:
 
 🌱 **Add: check for free space before uploading files**
