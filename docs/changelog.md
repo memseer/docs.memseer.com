@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.5.8:
+
+🌱 **Add: autofocus restriction for pre-populated event name field**
+
+There is no need for autofocus on the event name field when completing an action, since the name field will be pre-populated.
+
+---
 
 ### Version 24.5.6:
 
