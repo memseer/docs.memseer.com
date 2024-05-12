@@ -22,10 +22,11 @@ Let’s add new item, give it a name “my lawn mower”, click “work units”
 date, it can be approximated to a year if you don’t remember when it was purchased. Now it is time to set actions, click “+” under actions and populate fields
 so it reads as: “clean air filter every (repeats every) 25 hours”. Let’s keep adding new actions, click “+” for every new action:
 
+* replace spark plug every 150 hours
 * replace oil every 50 hours
 * inspect grass bag every 100 hours
-* replace spark plug every 150 hours
 * inspect flywheel break pad every 100 hours
+* clean air filter every 25 hours
 * adjust valve clearance every 100 hours
 * add grease pinion gears every 100 hours
 
