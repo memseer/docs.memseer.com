@@ -29,11 +29,11 @@ In order to export your item, go to dashboard, find desired item and click edit 
 
 ![](../../assets/images/guides/import_export/item_settings_gear.png)
 
-Next scroll all the way to the bottom of the page and find "Export" button on the right side.
+Next scroll all the way to the bottom of the page and find "Export Data" button on the right side.
 
 ![](../../assets/images/guides/import_export/item_settings_export.png)
 
-Click "Export" and item file will be saved to your device under item's name, for example:\
+Click "Export Data" and item file will be saved to your device under item's name, for example:\
 `Miata GT.json`
 
 
@@ -64,11 +64,11 @@ To export events, navigate to the dashboard and locate the desired item. Click o
 
 ![](../../assets/images/guides/import_export/item_events.png)
 
-Next, scroll to the bottom of the page and find the "Export" button on the right side.
+Next, scroll to the bottom of the page and find the "Export Data" button on the right side.
 
 ![](../../assets/images/guides/import_export/events_export.png)
 
-Click "Export", then select "Data". The events file will be saved to your device under the item's name, for example:
+Click "Export Data". The events file will be saved to your device under the item's name, for example:
 `Miata GT.csv`
 
 #### Exporting Events with Attachments
@@ -77,11 +77,11 @@ To export events with attachments, go to the dashboard, find the desired item, a
 
 ![](../../assets/images/guides/import_export/item_events.png)
 
-Then, scroll to the bottom of the page and locate the "Export" button on the right side.
+Then, scroll to the bottom of the page and locate the "Export Data & Attachments" button on the right side.
 
-![](../../assets/images/guides/import_export/events_and_attachment_export.png)
+![](../../assets/images/guides/import_export/events_export.png)
 
-Click "Export", then choose "Data & Attachments". A zip file will be saved to your device under the item's name, for example:
+Click "Export Data & Attachments". A zip file will be saved to your device under the item's name, for example:
 `Miata GT.zip`. This archive will contain `Miata GT.csv` along with all attached files. 
 
 ### Import
