@@ -9,6 +9,16 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.5.21:
+
+🌱 **Add: file upload progress bar for quick event**
+
+Now, there is a file upload progress bar available for the quick event feature only.
+
+![](../assets/images/changelog/add_file_upload_progress_bar_for_quick_event.gif)
+
+---
+
 ### Version 24.5.8:
 
 🌱 **Add: autofocus restriction for pre-populated event name field**
