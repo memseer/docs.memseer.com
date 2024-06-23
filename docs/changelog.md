@@ -9,6 +9,26 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.6.23:
+
+🌱 **Add: file upload progress bar for events view**
+
+The progress bar is now available in the events view.
+
+![](../assets/images/changelog/add_file_upload_progress_bar_for_events_view.gif)
+
+🌱 **Add: file attachment for new events in events view**
+
+You can now add a new event and attach a file directly.
+
+![](../assets/images/changelog/add_file_attachment_for_new_events_in_events_view.gif)
+
+🛠 **Refactor: events persistence mechanism**
+
+The bulk persistence has been removed, reducing the number of requests and the amount of traffic consumed.
+
+---
+
 ### Version 24.5.21:
 
 🌱 **Add: file upload progress bar for quick event**
