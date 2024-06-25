@@ -9,7 +9,18 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
-### Version 24.6.23:
+### Version 24.6.25:
+
+🐞 **Fix: unnecessary backend calls**
+
+Resolved an issue where the backend was called to remove non-existent files during file upload.
+
+🛠 **Update: dependencies**
+
+Updated dependencies with no changes to functionality.
+
+---
+### Version 24.6.24:
 
 🌱 **Add: file upload progress bar for events view**
 
