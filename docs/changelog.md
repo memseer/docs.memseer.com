@@ -9,6 +9,25 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
 
+### Version 24.7.20:
+
+🌱 **Add: extended sign-in period**
+
+Now you will stay signed in even if you close the browser. No need to keep signing in.
+
+🌱 **Add: basic session management**
+
+Now you can see how many sessions are open and close them at will.
+
+![](../assets/images/changelog/add_basic_session_management.jpg)
+
+🌱 **Add: signout option**
+
+Due to the extended sign-in period, you can no longer sign out by closing the browser/tab. However, you can do so from the menu via the signout link.
+
+![](../assets/images/changelog/add_signout.jpg)
+
+---
 ### Version 24.6.25:
 
 🐞 **Fix: unnecessary backend calls**
