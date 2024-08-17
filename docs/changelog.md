@@ -8,7 +8,15 @@ nav_order: 6
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+### Version 24.8.17:
 
+🌱 **Add: footer for the dashboard to ensure a consistent and uniform design throughout the application**
+
+![](../assets/images/changelog/add_footer_for_dashboard.jpg)
+
+🛠 **Refactor: various code components for improved maintainability.**
+
+---
 ### Version 24.7.20:
 
 🌱 **Add: extended sign-in period**
