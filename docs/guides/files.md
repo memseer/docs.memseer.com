@@ -22,11 +22,7 @@ Navigate to an item and click on the name of the item.
 
 ![](../../assets/images/guides/files/navigate_to_events.png)
 
-Next, create a new event, give it a name, and save it.
-
-![](../../assets/images/guides/files/new_event_created.png)
-
-Once the event is saved, you will see the upload button.
+Next, create a new event, give it a name.
 
 ![](../../assets/images/guides/files/upload_button.png)
 
