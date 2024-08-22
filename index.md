@@ -42,6 +42,7 @@ Once you set it up, you will be able to track everything at a glance: what needs
 **A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done on a car, health history, gift records (even birthday notes) and more, please checkout [examples](docs/examples/index.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
 
 **Q:** Why is Memseer not free?\
-**A:** Memseer has a simple and straightforward plan: pay and use. There are no investors, banks, partners or anyone expecting returns on their investment. There a no ads, data brokers, no one collects, aggregates or otherwise uses your data and information for financial gains. You are paying for the service and that is exactly what you are getting, no more, no less.
+**A:** Memseer operates on a simple and straightforward model: pay for what you use. There are no investors, banks, or partners expecting returns on their investments. Additionally, there are no ads, data brokers, or any collection, aggregation, or use of your data for financial gain. You are paying solely for the service, and that is exactly what you receive—nothing more, nothing less
 
-
+**Q:** Can I try before purchasing?
+**A:** Yes, we have [demo account](docs/demo.md) that you can try.
