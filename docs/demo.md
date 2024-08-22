@@ -13,7 +13,7 @@ You can try out Memseer using our fully functional demo account, which resets on
 
 **Demo Account Details:**
 
-- **URL**: [memseer.com](https://memseer.com)
+- **URL**: [memseer.com](https://memseer.com){:target="_blank"}
 - **Email**: demo@memseer.com
 - **Password**: Password123
 
