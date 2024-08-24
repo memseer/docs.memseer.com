@@ -97,6 +97,51 @@ In the example we can see various actions that should be performed at certain co
 
 Effectively actions are like rules or specifications that should be applied to an [item](#item).  
 
+## Action types:
+
+There are several action types available to accommodate complex requirements. Let’s start with the basic types:
+
+- Every 5 days
+- Every 4 weeks
+- Every 3 months
+- Every 2 years
+- Every 1000 miles
+
+Check out this [vehicle example](../examples/vehicle.md). 
+
+Next, we can add more conditions:
+
+- Every 5 days between January and February
+- Every 4 weeks between April and October
+- Every 3 months between March and December
+
+These actions with specific conditions apply during certain periods, allowing you to schedule seasonal tasks that need to be done only within those time frames. For example:
+
+`Antiparasitic medication every 3 months between mar and nov`
+
+![](../../assets/images/guides/overview/antiparasitic_medication_every_3_months_between_mar_and_nov.jpg)
+
+This example illustrates [cat care](../examples/my_cat.md), where the cat needs to take medication every 3 months during the outdoor season.
+
+Now, let’s look at more specific conditions:
+
+- Every 4 weeks on Monday
+- Every 3 months on 2nd
+- Every 2 years on February 3rd
+
+These actions allow for a tight schedule and precise tracking. For example, the water bill might arrive every 3 months:
+
+`Water bill every 3 months on 15th`
+
+![](../../assets/images/guides/overview/water_bill_every_3_months_on_15th.jpg)
+
+Or property taxes might be due every year on February 20th:
+
+`Property tax every 1 year on feb 20th`
+
+![](../../assets/images/guides/overview/property_tax_every_1_year_on_feb_20th.jpg)
+
+
 ## Creating action(s)
 
 There are two ways to create actions: directly, by navigating to "Item & Actions" and adding new actions, or by creating actions from existing events. 
