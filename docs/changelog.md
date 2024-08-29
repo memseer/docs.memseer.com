@@ -8,6 +8,20 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+### Version 24.8.29:
+
+🐞 **Fix: handover condition**
+
+An issue occurs when there are two actions: one without any condition and another with a specific condition. For example:
+- `replace air filter every 4 months`
+- `replace air filter every 3 months between jun and aug`
+
+Such a schedule is useful during high-usage periods of an HVAC system, for example.
+
+![](../assets/images/changelog/fix_handover_condition.jpg)
+
+
+---
 ### Version 24.8.17:
 
 🌱 **Add: footer for the dashboard to ensure a consistent and uniform design throughout the application**
