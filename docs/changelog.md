@@ -8,6 +8,13 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 ---
+### Version 24.9.8:
+
+🌱 **Add: enhanced production diagnostic tooling**
+
+Now able to capture and analyze production errors with greater detail, improving error tracking and resolution.
+
+---
 ### Version 24.9.2:
 
 🐞 **Fix: sign out**
