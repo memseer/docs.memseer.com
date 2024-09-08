@@ -14,6 +14,10 @@ Additions and updates to the Memseer
 
 Now able to capture and analyze production errors with greater detail, improving error tracking and resolution.
 
+🐞 **Fix: timeout during high-volume requests**
+
+Increased request timeout to prevent false positives. Previously, deleted records triggered an operation retry due to a timeout, resulting in a 404 error.
+
 ---
 ### Version 24.9.2:
 
