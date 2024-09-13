@@ -7,6 +7,23 @@ nav_order: 7
 # Changelog
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
+
+---
+### Version 24.9.13:
+
+🌱 **Add: on-demand diagnostic tools**
+
+Diagnostic tools can now be activated on-demand from the profile page.
+
+![](../assets/images/changelog/add_on-demand_diagnostic_tools.jpg)
+
+
+✂️ **Remove: diagnostic tooling on application start**
+
+Diagnostic tools are now disabled by default on startup, as they were compute-intensive, causing application slowdowns and excessive battery usage on mobile devices.
+
+---
+
 ---
 ### Version 24.9.8:
 
