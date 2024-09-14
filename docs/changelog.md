@@ -23,8 +23,6 @@ Diagnostic tools can now be activated on-demand from the profile page.
 Diagnostic tools are now disabled by default on startup, as they were compute-intensive, causing application slowdowns and excessive battery usage on mobile devices.
 
 ---
-
----
 ### Version 24.9.8:
 
 🌱 **Add: enhanced production diagnostic tooling**
