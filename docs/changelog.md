@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 24.10.18:
+
+🌱 **Add: task list**
+
+A new feature that allows users to see all tasks ordered by their due date. While the dashboard displays items prioritized by upcoming task, the task list shows all tasks in chronological order, without grouping them into specific items.
+
+![](../assets/images/changelog/add_task_list.jpg)
+
+---
 ### Version 24.9.13:
 
 🌱 **Add: on-demand diagnostic tools**
