@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 24.10.20:
+
+🌱 **Add: item name under each task name**
+
+Since task names are not unique and may describe the same action for different items, it can be confusing without specifying the associated item. For example, the task "dental checkup" might refer to a child or another family member needing a checkup.
+
+---
 ### Version 24.10.18:
 
 🌱 **Add: task list**
