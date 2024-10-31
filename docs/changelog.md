@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 24.10.31:
+
+🌱 **Add: category filter**
+
+Filter your Task List by category to quickly find what you need.
+
+![](../assets/images/changelog/add_category_filter.gif)
+
+---
 ### Version 24.10.20:
 
 🌱 **Add: item name under each task name**
