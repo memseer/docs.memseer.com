@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 24.12.14:
+
+🌱 **Add: quick new task/action**
+
+Create new task/action with just a few clicks.
+
+![](../assets/images/changelog/add_quick_new_task.gif)
+
+---
 ### Version 24.10.31:
 
 🌱 **Add: category filter**
