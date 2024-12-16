@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 24.12.16:
+
+🐞 **Fix: quick task mobile layout**
+
+---
 ### Version 24.12.14:
 
 🌱 **Add: quick new task/action**
