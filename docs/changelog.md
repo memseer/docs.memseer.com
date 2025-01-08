@@ -8,6 +8,14 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
+
+---
+### Version 25.1.8:
+
+🌱 **Add: create new item for quick task/action**
+
+![](../assets/images/changelog/add_create_new_item_for_quick_action.gif)
+
 ---
 ### Version 24.12.16:
 
