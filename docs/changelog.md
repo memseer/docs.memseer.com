@@ -10,6 +10,19 @@ Additions and updates to the Memseer
 
 
 ---
+### Version 25.2.25:
+
+🌱 **Add: footer with different views - dashboard, task list, history**
+
+🌱 **Add: history page ordered by date in descending order**
+
+🌱 **Add: filter (by event and item name) for history page**
+
+✏️ **Move: "Create new task" from Task List to footer**
+
+![](../assets/images/changelog/add_footer_history_filter_move_create_new_task.gif)
+
+---
 ### Version 25.1.8:
 
 🌱 **Add: create new item for quick task/action**
