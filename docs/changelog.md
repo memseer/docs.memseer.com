@@ -10,6 +10,14 @@ Additions and updates to the Memseer
 
 
 ---
+### Version 25.3.21:
+
+🌱 **Add: new event from history view**
+🛠 **Refactor: app navigation**
+
+![](../assets/images/changelog/add_new_event_from_history.gif)
+
+---
 ### Version 25.2.25:
 
 🌱 **Add: footer with different views - dashboard, task list, history**
