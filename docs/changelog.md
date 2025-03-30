@@ -8,6 +8,14 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
+---
+### Version 25.3.30:
+
+🌱 **Add: styles for tasks**
+
+![](../assets/images/changelog/add_styles_for_tasks.png)
+
+✏️ **Change: link to all events from history view**
 
 ---
 ### Version 25.3.21:
