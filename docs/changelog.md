@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.4.6:
+
+🛠 **Update: backend dependencies**
+
+Updated dependencies with no changes to functionality.
+
+---
 ### Version 25.3.30:
 
 🌱 **Add: styles for tasks**
