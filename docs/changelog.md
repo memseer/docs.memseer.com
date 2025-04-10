@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.4.10:
+
+🌱 **Add: download link for eligible events in the history view**
+
+![](../assets/images/changelog/add_download_link_for_eligible_events_in_the_history_view.png)
+
+🌱 **Add: notification for upcoming actions occurring within 24 hours** 
+
+---
 ### Version 25.4.6:
 
 🛠 **Update: backend dependencies**
