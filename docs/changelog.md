@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.4.24:
+
+🐞 **Fix: event-action correlation**
+
+Mismatch occurred when the name field in either the action or the event contained trailing spaces.
+
+---
 ### Version 25.4.10:
 
 🌱 **Add: download link for eligible events in the history view**
