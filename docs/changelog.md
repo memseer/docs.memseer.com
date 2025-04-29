@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.4.29:
+
+🌱 **Add: columns and overall improved history page design**
+
+![](../assets/images/changelog/add_columns_and_overall_improved_history_page_design.png)
+
+
+---
 ### Version 25.4.27:
 
 🌱 **Add: columns, badges and overall improved tasks page design**
