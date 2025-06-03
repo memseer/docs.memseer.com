@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.6.3:
+
+🌱 **Add: notification scheduling on multiple pages**
+
+🌱 **Add: navigation back to the history page after adding a new event**
+
+🛠 **Refactor: persistence code and extraction of common functionality**
+
+---
 ### Version 25.4.29:
 
 🌱 **Add: columns and overall improved history page design**
