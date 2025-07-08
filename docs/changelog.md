@@ -8,6 +8,14 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
+
+---
+### Version 25.7.8:
+
+🛠 **Update: dependencies**
+
+Updated dependencies with no changes to functionality.
+
 ---
 ### Version 25.6.3:
 
