@@ -12,9 +12,9 @@ Additions and updates to the Memseer
 ---
 ### Version 25.7.16:
 
-🌱 Add: event link to each task on the tasks page
+🌱 **Add: event link to each task on the tasks page**
 
-✂️ Remove: browser caching (HTTP 304) for data requests
+✂️ **Remove: browser caching (HTTP 304) for data requests**
 
 This change ensures the latest data is always fetched from the server, avoiding issues caused by stale or outdated responses.
 
