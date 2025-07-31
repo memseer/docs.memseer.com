@@ -8,6 +8,14 @@ nav_order: 7
 Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
+---
+### Version 25.7.31:
+
+🌱 **Add: follow-up task**
+
+Follow-up tasks are for one-offs—things you need to check once without starting a recurring schedule (e.g., call the shop in 3 days about a repair). If you’re not ready to complete it, click 'save' and the follow-up will stay open.
+
+![](../assets/images/changelog/add_follow-up_task.gif)
 
 ---
 ### Version 25.7.16:
