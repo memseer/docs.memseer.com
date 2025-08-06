@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.8.6:
+
+✏️ **Change: save button moved to the footer**
+
+The save button has been relocated to the form footer for better visibility and consistency with other forms in the app.
+
+![](../assets/images/changelog/change_save_button_moved_to_the_footer.jpg)
+
+---
 ### Version 25.7.31:
 
 🌱 **Add: follow-up task**
