@@ -9,6 +9,17 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.8.8:
+
+🌱 **Add: new item on the fly from the follow-up screen**
+
+![](../assets/images/changelog/add_new_item_on_the_fly_from_the_follow-up_screen.jpg)
+
+🌱 **Add: alphabetical sorting in the item picker**
+
+![](../assets/images/changelog/add_alphabetical_sorting_in_the_item_picker.jpg)
+
+---
 ### Version 25.8.6:
 
 ✏️ **Change: save button moved to the footer**
