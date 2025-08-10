@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.8.10:
+
+🌱 **Add: quick-add menu on each dashboard item**
+
+Create a Follow-up, Task, or Event right from the card via the New button.
+
+![](../assets/images/changelog/add_quick-add_menu_on_each_dashboard_item.jpg)
+
+---
 ### Version 25.8.8:
 
 🌱 **Add: new item on the fly from the follow-up screen**
