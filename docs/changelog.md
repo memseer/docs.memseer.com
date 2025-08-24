@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.8.24:
+
+🛠 **Update: dependencies**
+
+Updated dependencies with no changes to functionality.
+
+---
 ### Version 25.8.10:
 
 🌱 **Add: quick-add menu on each dashboard item**
