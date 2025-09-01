@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.9.1:
+
+🌱 **Add: Related history to task completion**
+
+While finishing a task, you can now quickly review its related history.
+
+![](../assets/images/changelog/add_related_history_to_task_completion.jpg)
+
+---
 ### Version 25.8.24:
 
 🛠 **Update: dependencies**
