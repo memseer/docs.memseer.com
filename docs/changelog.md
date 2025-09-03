@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.9.3:
+
+🐞 **Fix: ‘Download’ button now works in related history on the task completion screen**
+
+---
 ### Version 25.9.1:
 
 🌱 **Add: Related history to task completion**
