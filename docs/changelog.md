@@ -11,7 +11,7 @@ Additions and updates to the Memseer
 ---
 ### Version 25.9.20:
 
-🌱 **Add: history filter toggle — Related | All**
+🌱 **Add: history filter toggle — Related / All**
 
 ![](../assets/images/changelog/add_history_filter_toggle-related-all.jpg)
 
