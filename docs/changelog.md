@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.9.20:
+
+🌱 **Add: history filter toggle — Related | All**
+
+![](../assets/images/changelog/add_history_filter_toggle-related-all.jpg)
+
+🌱 **Add: refined styling and inline descriptions for the “Add new event” form and the “Add action” button**
+
+---
 ### Version 25.9.3:
 
 🐞 **Fix: ‘Download’ button now works in related history on the task completion screen**
@@ -16,7 +25,7 @@ Additions and updates to the Memseer
 ---
 ### Version 25.9.1:
 
-🌱 **Add: Related history to task completion**
+🌱 **Add: related history to task completion**
 
 While finishing a task, you can now quickly review its related history.
 
