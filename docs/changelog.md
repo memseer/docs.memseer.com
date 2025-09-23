@@ -9,6 +9,14 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.9.23:
+
+🐞 **Fix: Safari dropping requests**
+
+Safari can drop long-running requests, which caused the app to misbehave.
+We now automatically retry dropped requests up to 10 times, with a 1-second delay between attempts.
+
+---
 ### Version 25.9.20:
 
 🌱 **Add: history filter toggle — Related / All**
