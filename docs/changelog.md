@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.10.1:
+
+🌱 **Add: scroll position**
+
+Back/forward now restores the previous scroll position; other navigations scroll to the top.
+
+---
 ### Version 25.9.23:
 
 🐞 **Fix: Safari dropping requests**
