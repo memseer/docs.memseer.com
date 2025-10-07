@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.10.7:
+
+🌱 **Add: cache-busting URL in update-check to always fetch the latest version**
+
+---
 ### Version 25.10.1:
 
 🌱 **Add: scroll position**
