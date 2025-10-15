@@ -1,5 +1,5 @@
 {
-  "item": {
+  "category": {
     "isActive": true,
     "isUnitOfWork": true,
     "unitOfWork": "hours",
