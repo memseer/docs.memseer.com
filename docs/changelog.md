@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.10.18:
+
+✏️ **Change: terminology**
+
+We’re renaming **Item → Category** and **Event → Record**.
+This is a naming change only — Memseer’s functionality and workflows are unchanged.
+Documentation will be updated in the coming days.
+
+---
 ### Version 25.10.7:
 
 🌱 **Add: cache-busting URL in update-check to always fetch the latest version**
