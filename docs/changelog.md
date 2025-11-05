@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.11.2:
+
+🐞 **Fix: occasional connection error to S3 bucket**
+
+---
 ### Version 25.10.18:
 
 ✏️ **Change: terminology**
