@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.11.15:
+
+🐞 **Fix: task scheduling for a narrow edge case**
+
+The issue occurs only for categories that have units of work, a single record, and multiple unit-based actions.
+
+---
 ### Version 25.11.2:
 
 🐞 **Fix: occasional connection error to S3 bucket**
