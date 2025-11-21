@@ -17,21 +17,23 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-![](../../assets/images/examples/health/add_new_item.png)
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
 
-Add new item and name it “my health”, you can add your own birthday (if you want). Let’s add following actions:
+![](../../assets/images/examples/health/add_new_category.png)
+
+Add the New Category and name it “my health”, you can add your own birthday (if you want). Click on New Action. Let’s add the following actions:
 
 * doctor checkup every 1 year
 * dental checkup every 1 year
 * donate blood every 1 year
 
-![](../../assets/images/examples/health/new_item.png)
+![](../../assets/images/examples/health/new_action.png)
 
-Click “done” and new item is happy to report that some additional information is needed.
+Click “done” and new action is happy to report that some additional information is needed.
 
-![](../../assets/images/examples/health/insufficient_info.png)
+![](../../assets/images/examples/health/insufficient_info.jpg)
 
-It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. 
-Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have next one.
+It needs to know when was the last time you had checkups. Click the red link, set the date of the last time you did checkup and click “save”. 
+Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have the next one.
 
 ![](../../assets/images/examples/health/dashboard.png)
