@@ -7,23 +7,23 @@ nav_order: 5
 
 # Vehicle
 
-You have a vehicle and would like to keep it in a good shape, so lets put together list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
+You have a vehicle and would like to keep it in good shape, so let’s put together a list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/guides/sign_up/signin.jpg)
 
-Enter your email and password and complete sign in.
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
 
-Let's add new item from dashboard:
+Let's add a new category from the dashboard:
 
-![](../../assets/images/examples/vehicle/add_new_item.png)
+![](../../assets/images/examples/vehicle/add_new_category.png)
 
 Give it a name (for example: "my favorite car"), click "work units", select "miles" from the dropdown and select origination date:
 
 ![](../../assets/images/examples/vehicle/my_favorite_car.png)
 
-Now it is time to add actions! Here is a list of actions that we will be adding:
+Now, it is time to add actions! Here is a list of actions that we will be adding:
 
 * inspect entire vehicle every 1 year
 * replace battery every 4 years
@@ -38,7 +38,7 @@ Now it is time to add actions! Here is a list of actions that we will be adding:
 * replace transmission fluid every 60000 miles
 * rotate tires 15000 miles
 
-Click on "+" under "Actions" section and fill out first action:
+Click on "New Action", under the "Actions" section: fill out the first action:
 
 ![](../../assets/images/examples/vehicle/first_action.png)
 
@@ -46,11 +46,11 @@ Continue adding actions, so you end up with following list:
 
 ![](../../assets/images/examples/vehicle/my_favorite_car_with_actions.png)
 
-Now click "done". You will be dropped back to dashboard, and you will see your new item:
+Now click "save". You will be dropped back to the dashboard, and you will see your new category:
 
-![](../../assets/images/examples/vehicle/new_item.png)
+![](../../assets/images/examples/vehicle/new_category.png)
 
-Note, there is a warning sign, indicating some missing information - which is normal because there is no current milage provided for the vehicle. Let's add that information, click on the warning sign and fill out current miles (for example vehicle done 100 miles this far):
+Note, there is a warning sign, indicating some missing information - which is normal because there is no current mileage provided for the vehicle. Let's add that information, click on the warning sign and fill out the current miles (for example the vehicle’s done 200 miles this far):
 
 ![](../../assets/images/examples/vehicle/add_current_miles.png)
 
@@ -58,14 +58,14 @@ Click "save" and you will be returned to the dashboard. Now there is no more mis
 
 ![](../../assets/images/examples/vehicle/no_missing_information.png)
 
-**Please note:** at the current pace of 100 miles per day, you will hit you first oil change in about 2 months. But perhaps you don't drive 100 miles per day and only done 100 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
+**Please note:** at the current pace of 200 miles per day, you will hit you first oil change in less than one month. But perhaps you don't drive 200 miles per day and only done 200 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
 
-Lets say few days gone by, we can add new event with current milage, let's click on "+ event"
+Let’s say few days have gone by, we can add new record with the current mileage, let's click on "+ New"
 
-![](../../assets/images/examples/vehicle/add_quick_event.png)
+![](../../assets/images/examples/vehicle/add_quick_record.png)
 
-Type "current miles" into name field and add current miles into miles field (lets say you are at 110 miles), click save and you will be dropped back to the dashboard with recalculated schedule:
+Type "current miles" into name field and add current miles into miles field (let’s say you are at 260 miles). Click save, next you will be dropped back to the dashboard with the recalculated schedule:
 
-![](../../assets/images/examples/vehicle/recalculated_schedule.png)
+![](../../assets/images/examples/vehicle/recalculate_schedule.png)
 
-Now your oil service is calculated to be in 6 months. As you keep driving and adding more events to the item, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
+Now your oil service is calculated to be in three months. As you keep driving and adding more events to the item, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
