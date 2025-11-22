@@ -12,17 +12,17 @@ How to manage files
 {: .fs-6 .fw-300 }
 ---
 
-Memseer allows you to attach files to events. This is useful whenever you want to keep a document, receipt, photo, or some other important file in your records. Files are not limited to documents; you can store archives, binaries, and whatever else you need, as long as it is a single file.
+Memseer allows you to attach files to records. This is useful whenever you want to keep a document, receipt, medical record, photo, or some other important file in your records. Files are not limited to documents; you can store archives, binaries, and whatever else you need, as long as it is a single file.
 
 ---
 
 ## How to
 
-Navigate to an item and click on the name of the item.
+Navigate to a category and click on the name of the category.
 
-![](../../assets/images/guides/files/navigate_to_events.png)
+![](../../assets/images/guides/files/navigate_to_categories.png)
 
-Next, create a new event, give it a name.
+Next, click on “New Record” to create a new record, give it a name.
 
 ![](../../assets/images/guides/files/upload_button.png)
 
@@ -38,12 +38,12 @@ Now click on save, and the file will be uploaded and available for download (or 
           
 ---
 
-## Single File per Event
+## Single File per Record
 
-Currently, Memseer supports one file per one event — you can't have multiple files uploaded for the same event. If you have a need to upload multiple files, you have a couple of choices:
+Currently, Memseer supports one file per one record — you can't have multiple files uploaded for the same record. If you have a need to upload multiple files, you have a couple of choices:
 
 1. Collect and archive all the files into a single archive file, such as zip, and upload the file.
-2. Create multiple events and upload one file to each event.
+2. Create multiple records and upload one file to each record.
 
 If you have questions, suggestions, and/or feature requests, please give us your [feedback](../feedback.md).
 
