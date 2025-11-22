@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Shared Items
+title: Shared Categories
 nav_order: 4
 ---
 
-# Shared Items
-List of shared items with preset actions
+# Shared Categories
+List of shared categories with preset actions
 {: .fs-6 .fw-300 }
 ---
 
-Memseer lets you [export & import data](guides/data_management.md), which enables sharing. You can share your items with the community, enriching the lives of others. For example, you can share your lawn mower item, which contains the maintenance and upkeep tasks that should be performed in order for the mower to function properly and last for a long time. This information can be valuable to others who own the same type of mower, as it can help them keep their mower in good working condition. By sharing your items, you can help others save money and resources, and you can also help build a stronger and more supportive community.
+Memseer lets you [export & import data](guides/data_management.md), which enables sharing. You can share your categories with the community, enriching the lives of others. For example, you can share your lawn mower category, which contains the maintenance and upkeep tasks that should be performed in order for the mower to function properly and last for a long time. This information can be valuable to others who own the same type of mower, as it can help them keep their mower in good working condition. By sharing your categories, you can help others save money and resources, and you can also help build a stronger and more supportive community.
 
-You can find community shared items below.
+You can find community shared categories below.
 
 ---
 
-**All items provided by community. Please review after import.**
+**All categories provided by community. Please review after import.**
 
 ### Vehicles:
 

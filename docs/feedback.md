@@ -11,8 +11,8 @@ Feature requests, bug reports & community recipes
 
 - 📢 We want your feedback! Help us improve by sharing your thoughts.
 - 💡 Have an idea? Submit a feature request, and we'll work to bring it to life.
-- 🍲 Share your item maintenance recipes through a pull request. Benefit the community with your expertise.
+- 🍲 Share your category maintenance recipes through a pull request. Benefit the community with your expertise.
 
 Submit feedback, feature requests and recipes on [GitHub](https://github.com/memseer/docs.memseer.com).
 
-You can see current list of shared items [here](shared.md).
+You can see current list of shared categories [here](shared.md).

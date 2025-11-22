@@ -7,7 +7,7 @@ nav_order: 7
 
 # My cat (or any other pet)
 
-You got a cat, which needs to be looked after, periodically vaccinated, given anti-parasitic medication and occasionally have its nails cut. Let’s create new a item, so we can effortlessly keep track of all important events. Give it a name and set origination date to the birthday of the cat. Next click “New Action +” and add “anti-parasitic treatment”. As per your veterinarian, add the frequency of the treatment. In our example we will set frequency to every 3 months, and the period from March to November.
+You got a cat, which needs to be looked after, periodically vaccinated, given anti-parasitic medication and occasionally have its nails cut. Let’s create new a category, so we can effortlessly keep track of all important records. Give it a name and set origination date to the birthday of the cat. Next click “New Action +” and add “anti-parasitic treatment”. As per your veterinarian, add the frequency of the treatment. In our example we will set frequency to every 3 months, and the period from March to November.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 

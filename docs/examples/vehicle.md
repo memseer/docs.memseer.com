@@ -58,9 +58,9 @@ Click "save" and you will be returned to the dashboard. Now there is no more mis
 
 ![](../../assets/images/examples/vehicle/no_missing_information.png)
 
-**Please note:** at the current pace of 200 miles per day, you will hit you first oil change in less than one month. But perhaps you don't drive 200 miles per day and only done 200 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
+**Please note:** at the current pace of 200 miles per day, you will hit you first oil change in less than one month. But perhaps you don't drive 200 miles per day and only done 200 miles this one time. No problem, just keep adding records to the category, Memseer will recalculate your daily average as more information arrives.
 
-Let’s say few days have gone by, we can add new record with the current mileage, let's click on "+ New"
+Let’s say few days have gone by, we can add new record with the current mileage, let's click on "+ New Record"
 
 ![](../../assets/images/examples/vehicle/add_quick_record.png)
 
@@ -68,4 +68,4 @@ Type "current miles" into name field and add current miles into miles field (let
 
 ![](../../assets/images/examples/vehicle/recalculate_schedule.png)
 
-Now your oil service is calculated to be in three months. As you keep driving and adding more events to the item, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
+Now your oil service is calculated to be in three months. As you keep driving and adding more records to the category, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
