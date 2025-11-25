@@ -8,7 +8,7 @@ nav_order: 1
 # Health
 
 Health is one of the most precious things we got. We tend to not think of it when everything is well, but it is all we can think of, otherwise. Life is busy,
-we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let’s take charge of it and setup
+we all get carried away and not every health provider remembers to get a hold of you for annual (or semiannual) checkup. Let's take charge of it and setup
 yearly checkup with doctor, dentist and perhaps a blood donation.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
@@ -17,11 +17,11 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
+You will be redirected to the main dashboard. In the bottom left corner click on "+ New Category".
 
 ![](../../assets/images/examples/health/add_new_category.png)
 
-Add the New Category and name it “my health”, you can add your own birthday (if you want). Click on New Action. Let’s add the following actions:
+Add the new Category and name it "my health", you can add your own birthday (if you want). Click on "+ New Action". Let's add the following actions:
 
 * doctor checkup every 1 year
 * dental checkup every 1 year
@@ -29,11 +29,11 @@ Add the New Category and name it “my health”, you can add your own birthday 
 
 ![](../../assets/images/examples/health/new_action.png)
 
-Click “done” and new action is happy to report that some additional information is needed.
+Click "done" and the new action is happy to report that some additional information is needed.
 
 ![](../../assets/images/examples/health/insufficient_info.jpg)
 
-It needs to know when was the last time you had checkups. Click the red link, set the date of the last time you did checkup and click “save”. 
+It needs to know when was the last time you had checkups. Click the red link, set the date of the last time you did checkup and click "save". 
 Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have the next one.
 
 ![](../../assets/images/examples/health/dashboard.png)

@@ -15,4 +15,4 @@ Feature requests, bug reports & community recipes
 
 Submit feedback, feature requests and recipes on [GitHub](https://github.com/memseer/docs.memseer.com).
 
-You can see current list of shared categories [here](shared.md).
+You can see the current list of shared categories [here](shared.md).

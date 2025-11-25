@@ -15,9 +15,9 @@ A new way to organize
 
 ## Memseer keeps track so you don't have to
 
-Memseer is simple and powerful organizational tool, similar to a logbook or a household binder, but more capable. You can create categories, populate them with records and associate with actions. Check out [the story](docs/about/the_story.md) behind Memseer and [examples](docs/examples/index.md). 
+Memseer is a simple and powerful organizational tool, similar to a logbook or a household binder, but more capable. You can create categories, populate them with records and/or associate them with actions. Check out [the story](docs/about/the_story.md) behind Memseer and view some [examples](docs/examples/index.md). 
 
-Once you set it up, you will be able to track everything at a glance: what needs your attention, what's coming up and traverse records back in history. So, you don't have to remember all the small but important details.
+Once you set it up, you will be able to track everything at a glance: what needs your attention, what's coming up and review records back through history. So, you don't have to remember all the small but important details.
 
 ## Highlights:
 - Easy planning: everything that needs attention at a glance
@@ -39,10 +39,10 @@ Once you set it up, you will be able to track everything at a glance: what needs
 **A:** No, Memseer is not a reminder. You can’t create reminders manually, however Memseer does remind you about repeatable tasks that should be accomplished.
 
 **Q:** What is Memseer best suited for?\
-**A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done on a car, health history, gift records (even birthday notes) and more, please checkout [examples](docs/examples/index.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
+**A:** Memseer is best suited for maintenance work and record keeping. For example, you can keep records of work done on a car, health history, gift records (even birthday notes) and more, please check out [examples](docs/examples/index.md) and [importance of maintenance](docs/about/timely_maintenance.md) article.
 
 **Q:** Why is Memseer not free?\
-**A:** Memseer operates on a simple and straightforward model: pay for what you use. There are no investors, banks, or partners expecting returns on their investments. Additionally, there are no ads, data brokers, or any collection, aggregation, or use of your data for financial gain. You are paying solely for the service, and that is exactly what you receive—nothing more, nothing less
+**A:** Memseer operates on a simple and straightforward model: pay for what you use. There are no investors, banks, or partners expecting returns on their investments. Additionally, there are no ads, data brokers, or any collection, aggregation, or use of your data for financial gain. You are paying solely for the service, and that is exactly what you receive—nothing more, nothing less.
 
 **Q:** Can I try before purchasing?\
 **A:** Yes, we have [demo account](docs/demo.md) that you can try.
