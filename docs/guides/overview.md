@@ -51,7 +51,7 @@ Category has several fields, which are optional.
 
 **[work units](#work-units)** can be enabled if you need to keep track of thing with kilometers, miles or hours of operation, such as vehicles, airplanes or even treadmills - [see example](#work-units)
 
-**origination date** - is a date when the category was manufactured/created/ started working or simply when we want to start keeping track.
+**origination date** - is a date when the category was manufactured/created/started working or simply when we want to start keeping track.
 
 **active** - enables/disables calculation of the schedule when [actions](#actions) are present.
 
@@ -143,9 +143,9 @@ Or property taxes might be due every year on February 20th:
 
 Create the record, click on "+ New Record".
 
-![](../../assets/images/guides/overview/property_tax_add_action.png)
-
 Create the Action for the record.
+
+![](../../assets/images/guides/overview/property_tax_add_action.png)
 
 ![](../../assets/images/guides/overview/property_tax_every_1_year_on_feb_20th.png)
 

@@ -12,13 +12,13 @@ How to create a Memseer account
 
 On the [memseer.com](https://memseer.com) page, click “Sign up”.\
 Choose subscription model: $2 per month or $20 per year, both subscriptions have the same set
-of features.\
+of features.
+
 Next, you will be sent to the checkout page, where you can fill out your payment information.
 
 ![](../../assets/images/guides/sign_up/checkout.jpg)
 
-Once you’ve completed checkout and clicked the “Subscribe” button, you will be redirected to a sign up page, where you need to fill out simple form: email &
-password.
+Once you’ve completed checkout and clicked the “Subscribe” button, you will be redirected to a sign up page, where you need to fill out simple form: email & password.
 
 ![](../../assets/images/guides/sign_up/sign_up.jpg)
 

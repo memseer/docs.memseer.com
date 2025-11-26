@@ -69,8 +69,7 @@ Next, scroll to the bottom of the page and find the "Export Data" button on the 
 
 ![](../../assets/images/guides/data_management/records_export.png)
 
-Click "Export Data". The record file will be saved to your device under the category's name, for example:
-`Miata GT.csv`
+Click "Export Data". The record file will be saved to your device under the category's name, for example: `Miata GT.csv`
 
 #### Exporting Records with Attachments
 
