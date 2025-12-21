@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 25.12.20
+
+🛠 **Refactor: tasks filter moved into the header**
+
+🌱 **Add: typeahead for the tasks filter**
+
+![](../assets/images/changelog/add_typeahead_for_the_tasks_filter.jpg)
+
+---
 ### Version 25.11.15:
 
 🐞 **Fix: task scheduling for a narrow edge case**
