@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.2.25
+
+🌱 **Add: typeahead for the dashboard filter**
+
+---
 ### Version 25.12.20
 
 🛠 **Refactor: tasks filter moved into the header**
