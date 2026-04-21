@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.4.21
+
+🌱 **Add: typeahead for the history filter**
+
+---
 ### Version 26.3.25
 
 🌱 **Add: partial text filtering**
