@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.5.18
+
+🌱 **Add: typeahead for the record filter**
+
+🛠 **Update: dependencies and cleanup**
+
+---
 ### Version 26.4.21
 
 🌱 **Add: typeahead for the history filter**
