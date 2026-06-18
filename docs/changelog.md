@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.6.18
+
+🐞 Fix: stale notifications
+
+Old notifications are now removed when categories become inactive or no longer have scheduled tasks.
+
+---
 ### Version 26.5.18
 
 🌱 **Add: typeahead for the record filter**
