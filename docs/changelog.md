@@ -11,7 +11,7 @@ Additions and updates to the Memseer
 ---
 ### Version 26.6.18
 
-🐞 Fix: stale notifications
+🐞 **Fix: stale notifications**
 
 Old notifications are now removed when categories become inactive or no longer have scheduled tasks.
 
