@@ -9,6 +9,15 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.7.2
+
+🌱 **Add: Import & Add**
+
+You can now import records and actions without replacing existing data. This is useful when merging records or actions.
+
+![](../assets/images/changelog/add_import_and_add.gif)
+
+---
 ### Version 26.6.18
 
 🐞 **Fix: stale notifications**
