@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.7.4
+
+🐞 **Fix: unstable dashboard summary sorting**
+
+Ensured dashboard summaries display in a consistent order across browsers.
+
+---
 ### Version 26.7.2
 
 🌱 **Add: Import & Add**
