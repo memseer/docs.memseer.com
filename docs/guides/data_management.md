@@ -44,7 +44,7 @@ In order to import a brand-new category, go to the main dashboard, scroll to the
 
 ![](../../assets/images/guides/data_management/add_new_category.png)
 
-Next, click on "Import".
+Next, click on either "Import & Replace" or "Import & Add".
 
 ![](../../assets/images/guides/data_management/new_category_import.png)
 
@@ -79,7 +79,7 @@ To export records with attachments, go to the dashboard, find the desired catego
 
 Then, scroll to the bottom of the page and locate the "Export Data & Attachments" button on the right side.
 
-![](../../assets/images/guides/data_management/records_export.png)
+![](../../assets/images/guides/data_management/records_export_attachments.png)
 
 Click "Export Data & Attachments". A zip file will be saved to your device under the category’s title, for example:
 `Miata GT.zip`. This archive will contain `Miata GT.csv` along with all attached files.
@@ -97,6 +97,10 @@ Click on category's name.
 
 ![](../../assets/images/guides/data_management/import_records_category_name.png)
 
-On the bottom right click "Import", select file (example: `Miata GT.json`) and in a second you will see the populated records.
+On the bottom right click on either "Import & Replace" or "Import & Add" (depending on what is preferred), select file (example: `Miata GT.json`) and in a second you will see the populated records. Then click "Save".
+
+#### Note: Import & Replace Vs Import & Add
+
+"Import & Replace" allows to import the records while replacing the current records in the category. "Import & Add" allows a "top up" to the current records. Or an import to the current records without deleting any current records. This may allow for duplicates.
 
 ![](../../assets/images/guides/data_management/import_records_import_button.png)
