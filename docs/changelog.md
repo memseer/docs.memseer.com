@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.7.12
+
+🐞 **Fix: category fetch size to retrieve all categories**
+
+🛠 **Update: dependencies and cleanup**
+
+---
 ### Version 26.7.4
 
 🐞 **Fix: unstable dashboard summary sorting**
