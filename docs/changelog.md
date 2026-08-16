@@ -9,6 +9,13 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.8.16
+
+🛠 **Refactor: notification efficiency and reliability**
+
+Improves scheduled notification reliability and reduces background requests.
+
+---
 ### Version 26.7.12
 
 🐞 **Fix: category fetch size to retrieve all categories**
