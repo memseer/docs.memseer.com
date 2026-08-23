@@ -9,6 +9,11 @@ Additions and updates to the Memseer
 {: .fs-6 .fw-300 }
 
 ---
+### Version 26.8.23
+
+🐞 **Fix: missing and delayed notifications caused by date rollover around midnight**
+
+---
 ### Version 26.8.16
 
 🛠 **Refactor: notification efficiency and reliability**
