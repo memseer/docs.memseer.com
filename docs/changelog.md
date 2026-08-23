@@ -13,6 +13,10 @@ Additions and updates to the Memseer
 
 🐞 **Fix: missing and delayed notifications caused by date rollover around midnight**
 
+🌱 **Add: link app version to its changelog entry**
+
+![](../assets/images/changelog/add_link_app_version_to_its_changelog_entry.jpg)
+
 ---
 ### Version 26.8.16
 
